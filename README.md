@@ -7,7 +7,7 @@ My name is Nuttapong Buttprom, a musician and data science learner. Nice to meet
  - Since SEAN B share his statement for public(PDF), I wonder how much money is in and out during his campaign, so I made the data in a computer-readable format. And then create this dashboard. [CSILA](https://www.facebook.com/CSILA90210/) (1m+ facebook page) share my work in his [post](https://www.facebook.com/CSILA90210/?hc_ref=ARTGU4fJykFID3EFJagA9B56R_HdQdt1CaYVCaBLY_IYoB25j4DSZJPzCkKZ-Oa9rI0&fref=nf&__tn__=kC-R)
  
  
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/SEANB/SEANBIncidentdashboard?:embed=yes&:display_count=yes&:showVizHome=no" width = '1100' height = '850' scrolling='yes' ></iframe>
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/SEANB/SEANBIncidentdashboard?:embed=yes&:display_count=yes&:showVizHome=no" width = '1100' height = '825' scrolling='yes' ></iframe>
 **data source**
 - [SEAN B pdf](https://drive.google.com/drive/folders/1NKdg8ZlZfEL-0CIb0AemPp9Dp28lUSmI?fbclid=IwAR3Dsgc2PY1_KFJlZo1rTVUFg4Cw3oCY_hRc8jhLHSlByla3kcyT8btr3ds)
 - [my clean csv](https://docs.google.com/spreadsheets/d/1W9Y1lu0c0Y3xjyGg-2ApxE-TVv0zHRV00TbrblwMoRE/edit?fbclid=IwAR1ABG-webWIpiDsQ0nnH0YbZJjcGBMwZrQzAxGlkk4f29weqo2kCjiMIm4#gid=0)

@@ -11,14 +11,14 @@ Since [Sean Buranahiran](https://www.facebook.com/SeanBuranahiran/) share [state
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/SEANB/SEANBIncidentdashboard?:embed=yes&:display_count=yes&:showVizHome=no" width = '1090' height = '830' scrolling='yes' ></iframe>
 
 data source [SEAN B PDF](https://drive.google.com/drive/folders/1NKdg8ZlZfEL-0CIb0AemPp9Dp28lUSmI?fbclid=IwAR3Dsgc2PY1_KFJlZo1rTVUFg4Cw3oCY_hRc8jhLHSlByla3kcyT8btr3ds), [my clean csv](https://docs.google.com/spreadsheets/d/1W9Y1lu0c0Y3xjyGg-2ApxE-TVv0zHRV00TbrblwMoRE/edit?fbclid=IwAR1ABG-webWIpiDsQ0nnH0YbZJjcGBMwZrQzAxGlkk4f29weqo2kCjiMIm4#gid=0)
-
-
+ 
+ 
 **KPI Tracking Dashboard**
 
 We need to make more careful decisions during COVID 19. So I created this dashboard to keep track of promotion campaign. I add indicator to identify problem of actual & target (red bullet chart), cost limitation indicator is also add too (top right red line)
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/LensodPromotionaftercovid2020-Evaluation/CampaignKPIv1_6?:embed=yes&:display_count=yes&:showVizHome=no" width = '1090' height = '850' scrolling='yes' ></iframe>
-data source is private.
+
 
 
 

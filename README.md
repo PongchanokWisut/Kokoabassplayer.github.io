@@ -17,7 +17,7 @@ data source [SEAN B PDF](https://drive.google.com/drive/folders/1NKdg8ZlZfEL-0CI
 
 We need to make more careful decisions during COVID 19. So I created this dashboard to keep track of promotion campaign. I add indicator to identify problem of actual & target (red bullet chart), cost limitation indicator is also add too (top right red line)
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/LensodPromotionaftercovid2020-Evaluation/CampaignKPIv1_6?:embed=yes&:display_count=yes&:showVizHome=no" width = '1090' height = '830' scrolling='yes' ></iframe>
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/LensodPromotionaftercovid2020-Evaluation/CampaignKPIv1_6?:embed=yes&:display_count=yes&:showVizHome=no" width = '1090' height = '850' scrolling='yes' ></iframe>
 data source is private.
 
 

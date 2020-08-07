@@ -22,10 +22,12 @@ We need to make more careful decisions during COVID 19. So I created this dashbo
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/24075/sheet13?:embed=yes&:display_count=yes&:showVizHome=no" width = '1090' height = '850' scrolling='yes' ></iframe>
 
+**COVID-19 Rank Racing**
 
+to learning animation in data visualiazation. what i found is animation add dimention to analysis and it tell a story more clearly, it's make a good sense of what is going on by time.
 
-
-
+<iframe seamless frameborder="0" src="
+https://public.tableau.com/views/CovidRankRacing/Covid19-Top10TotalCasesRank?:embed=yes&:display_count=yes&:showVizHome=no" width = '1090' height = '850' scrolling='yes' ></iframe>
 
 
 

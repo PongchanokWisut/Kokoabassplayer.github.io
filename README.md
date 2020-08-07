@@ -41,6 +41,8 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 My name is Nuttapong Buttprom, Nice to meet you and this is some of my work and passion in data science
 
-ลองเอา tableau public มาใส่เพจดูซิ
-**SEAN B Incident dashboard**
+ ### Dashboard
+ 
+ - Since SEAN B share his statement for public(PDF), I wonder how much money is in and out and who?, so I made the data in a computer-readable format. And then create this dashboard
+ 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/SEANB/SEANBIncidentdashboard?:embed=yes&:display_count=yes&:showVizHome=no" width = '1100' height = '900' scrolling='yes' ></iframe>

@@ -4,7 +4,7 @@ My name is Nuttapong Buttprom, a musician and data science learner. Nice to meet
 
 ### Dashboard
  
- - Since SEAN B share his statement for public(PDF), I wonder how much money is in and out during his campaign, so I made the data in a computer-readable format. And then create this dashboard. [CSILA](https://www.facebook.com/CSILA90210/) (1m+ facebook page) share my work in his [post](https://www.facebook.com/CSILA90210/?hc_ref=ARTGU4fJykFID3EFJagA9B56R_HdQdt1CaYVCaBLY_IYoB25j4DSZJPzCkKZ-Oa9rI0&fref=nf&__tn__=kC-R)
+ - Since SEAN B share his statement for public(PDF), I wonder how much money is in and out during his campaign, so I made the data in a computer-readable format. And then create this dashboard. [CSILA](https://www.facebook.com/CSILA90210/) (1m+ facebook page) share my work in his [post](https://www.facebook.com/CSILA90210/posts/3152296238181413?d=m)
  
  
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/SEANB/SEANBIncidentdashboard?:embed=yes&:display_count=yes&:showVizHome=no" width = '1100' height = '825' scrolling='yes' ></iframe>

@@ -4,16 +4,27 @@ My name is Nuttapong Buttprom, a musician and data science learner. Nice to meet
 
 ### Dashboard
  
- - Since [Sean Buranahiran](https://www.facebook.com/SeanBuranahiran/) share [statement](https://drive.google.com/drive/folders/1NKdg8ZlZfEL-0CIb0AemPp9Dp28lUSmI?fbclid=IwAR3Dsgc2PY1_KFJlZo1rTVUFg4Cw3oCY_hRc8jhLHSlByla3kcyT8btr3ds) for public in his apologize [post](https://www.facebook.com/SeanBuranahiran/posts/3082422251850578), I wonder how much money is in and out during his campaign, so I made the data in a computer-readable format. And then create this dashboard. [CSILA](https://www.facebook.com/CSILA90210/) (1m+ facebook page) share my work in his [post](https://www.facebook.com/CSILA90210/posts/3152296238181413?d=m)
- 
+1. General Public data visualization
+Since [Sean Buranahiran](https://www.facebook.com/SeanBuranahiran/) share [statement](https://drive.google.com/drive/folders/1NKdg8ZlZfEL-0CIb0AemPp9Dp28lUSmI?fbclid=IwAR3Dsgc2PY1_KFJlZo1rTVUFg4Cw3oCY_hRc8jhLHSlByla3kcyT8btr3ds) for public in his apologize [post](https://www.facebook.com/SeanBuranahiran/posts/3082422251850578), I wonder how much money is in and out during his campaign, so I made the data in a computer-readable format. And then create this dashboard. [CSILA](https://www.facebook.com/CSILA90210/) (1m+ facebook page) share my work in his [post](https://www.facebook.com/CSILA90210/posts/3152296238181413?d=m)
 
- 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/SEANB/SEANBIncidentdashboard?:embed=yes&:display_count=yes&:showVizHome=no" width = '1100' height = '830' scrolling='yes' ></iframe>
 data source [SEAN B pdf](https://drive.google.com/drive/folders/1NKdg8ZlZfEL-0CIb0AemPp9Dp28lUSmI?fbclid=IwAR3Dsgc2PY1_KFJlZo1rTVUFg4Cw3oCY_hRc8jhLHSlByla3kcyT8btr3ds), [my clean csv](https://docs.google.com/spreadsheets/d/1W9Y1lu0c0Y3xjyGg-2ApxE-TVv0zHRV00TbrblwMoRE/edit?fbclid=IwAR1ABG-webWIpiDsQ0nnH0YbZJjcGBMwZrQzAxGlkk4f29weqo2kCjiMIm4#gid=0)
 
+2. KPI Tracking Dashboard
+
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/LensodPromotionaftercovid2020-Evaluation/CampaignKPIv1_6?:embed=yes&:display_count=yes&:showVizHome=no" width = '1400' height = '800' scrolling='yes' ></iframe>
+data source is private.
 
 
- [post](https://www.facebook.com/SeanBuranahiran/posts/3082422251850578)
+
+
+
+
+
+
+
+
+
 
 
 

@@ -32,7 +32,7 @@ We need to make more careful decisions during COVID 19. So I created this dashbo
 to learning animation in data visualiazation. what i found is animation add dimention to analysis and it tell a story more clearly, it's make a good sense of what is going on by time.
 
 <iframe seamless frameborder="0" src="
-https://public.tableau.com/views/CovidRankRacing/Covid19-Top10TotalCasesRank?:embed=yes&:display_count=yes&:showVizHome=no" width = '650' height = '625' scrolling='yes' ></iframe>
+https://public.tableau.com/views/CovidRankRacing/Covid19-Top10TotalCasesRank?:embed=yes&:display_count=yes&:showVizHome=no" width = '700' height = '650' scrolling='yes' ></iframe>
 
 Data source : [Our World in Data COVID-19 dataset](https://github.com/owid/covid-19-data/tree/master/public/data)
 

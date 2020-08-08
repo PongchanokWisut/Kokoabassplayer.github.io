@@ -1,7 +1,5 @@
 ## Welcome to my Portfolio
 
-![My Profile Photo](https://user-images.githubusercontent.com/61007612/89704456-0d45b400-d97e-11ea-8055-f4066a2e4ed8.jpg)
-
 My name is Nuttapong Buttprom, a musician and data science learner. Nice to meet you and this is some of my work and passion in data science
 
 ### Dashboard

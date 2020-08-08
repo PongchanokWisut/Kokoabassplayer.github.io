@@ -32,7 +32,7 @@ I want to know the health of my mom's shop. I start collecting her data in Googl
 to learning animation in data visualiazation. what i found is animation add dimention to analysis and it tell a story more clearly, it's make a good sense of what is going on by time. *Unfortunately tableau public not good at animation, to see Full potencial of animation please download workbook (Rigth-down corner button)*
 
 <iframe seamless frameborder="0" src="
-https://public.tableau.com/views/CovidRankRacing/Covid19-Top10TotalCasesRank?:embed=yes&:display_count=yes&:showVizHome=no" width = '650' height = '600' scrolling='yes' ></iframe>
+https://public.tableau.com/views/CovidRankRacing/Covid19-Top10TotalCasesRank?:embed=yes&:display_count=yes&:showVizHome=no" width = '680' height = '630' scrolling='yes' ></iframe>
 
 Data source : [Our World in Data COVID-19 dataset](https://github.com/owid/covid-19-data/tree/master/public/data)
 

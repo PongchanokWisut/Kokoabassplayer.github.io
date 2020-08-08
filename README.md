@@ -20,6 +20,8 @@ We need to make more careful decisions during COVID 19. So I created this dashbo
 
 **Simple accounts of flea market shops**
 
+I want to know the health of my mom's shop. I start collecting her data in Google sheet then clean and Visualize. 
+
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/24075/sheet13?:embed=yes&:display_count=yes&:showVizHome=no" width = '1090' height = '850' scrolling='yes' ></iframe>
 
 
@@ -27,7 +29,7 @@ We need to make more careful decisions during COVID 19. So I created this dashbo
 
 **COVID-19 Rank Racing**
 
-to learning animation in data visualiazation. what i found is animation add dimention to analysis and it tell a story more clearly, it's make a good sense of what is going on by time.
+to learning animation in data visualiazation. what i found is animation add dimention to analysis and it tell a story more clearly, it's make a good sense of what is going on by time. *Unfortunately tableau public not good at animation, to see Full potencial of animation please download workbook (Rigth-down corner button)*
 
 <iframe seamless frameborder="0" src="
 https://public.tableau.com/views/CovidRankRacing/Covid19-Top10TotalCasesRank?:embed=yes&:display_count=yes&:showVizHome=no" width = '750' height = '700' scrolling='yes' ></iframe>

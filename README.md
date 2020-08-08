@@ -27,7 +27,7 @@ I want to know the health of my mom's shop. I start collecting her data in Googl
 
 ### Single Chart
 
-**COVID-19 Rank Racing**
+- **COVID-19 Rank Racing**
 
 to learning animation in data visualiazation. what i found is animation add dimention to analysis and it tell a story more clearly, it's make a good sense of what is going on by time. *Unfortunately tableau public not good at animation, to see Full potencial of animation please download workbook (Rigth-down corner button)*
 

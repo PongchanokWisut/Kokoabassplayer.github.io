@@ -45,4 +45,3 @@ Most of my work is confidential. If you need a sample for the interview please c
 - [Email](kokoabassplayer@gmial.com)
 - [Linkedin](https://www.linkedin.com/in/kokoabassplayer/)
 - [Facebook](https://www.linkedin.com/in/kokoabassplayer/)
-- [Tableau Public](https://public.tableau.com/profile/smith2019#!/)

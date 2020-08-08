@@ -42,6 +42,6 @@ Data source : [Our World in Data COVID-19 dataset](https://github.com/owid/covid
 
 ### Support or Contact
 Most of my work is confidential. If you need a sample for the interview please contact
-- Mail to :kokoabassplayer@gmail.com
+- Mail to : kokoabassplayer@gmail.com
 - [Linkedin](https://www.linkedin.com/in/kokoabassplayer/)
 - [Facebook](https://www.linkedin.com/in/kokoabassplayer/)

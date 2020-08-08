@@ -32,6 +32,8 @@ to learning animation in data visualiazation. what i found is animation add dime
 <iframe seamless frameborder="0" src="
 https://public.tableau.com/views/CovidRankRacing/Covid19-Top10TotalCasesRank?:embed=yes&:display_count=yes&:showVizHome=no" width = '1090' height = '850' scrolling='yes' ></iframe>
 
+Data source : [Our World in Data COVID-19 dataset](https://github.com/owid/covid-19-data/tree/master/public/data)
+
 
 
 

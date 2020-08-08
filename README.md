@@ -41,3 +41,4 @@ Data source : [Our World in Data COVID-19 dataset](https://github.com/owid/covid
 - [Email](kokoabassplayer@gmial.com)
 - [Linkedin](https://www.linkedin.com/in/kokoabassplayer/)
 - [Facebook](https://www.linkedin.com/in/kokoabassplayer/)
+- [Tableau Public](https://public.tableau.com/profile/smith2019#!/)

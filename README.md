@@ -4,7 +4,7 @@ My name is Nuttapong Buttprom, a musician and data science learner. Nice to meet
 
 ### Dashboard
  
-**General Public data visualization**
+**Public data visualization**
 
 Since [Sean Buranahiran](https://www.facebook.com/SeanBuranahiran/) share [statement](https://drive.google.com/drive/folders/1NKdg8ZlZfEL-0CIb0AemPp9Dp28lUSmI?fbclid=IwAR3Dsgc2PY1_KFJlZo1rTVUFg4Cw3oCY_hRc8jhLHSlByla3kcyT8btr3ds)(PDF) for public in his apologize [post](https://www.facebook.com/SeanBuranahiran/posts/3082422251850578), I wonder how much money is in and out during his campaign, so I made the data in a computer-readable format. And then create this dashboard. [CSILA](https://www.facebook.com/CSILA90210/) (1m+ facebook page) share my work in his [post](https://www.facebook.com/CSILA90210/posts/3152296238181413?d=m)
 

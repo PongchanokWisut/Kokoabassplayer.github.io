@@ -1,6 +1,6 @@
 ## Welcome to my Portfolio
 
-My name is Nuttapong Buttprom, I am  a musician and data science learner. It's nice to meet you, and here are some of my contributions and my passion for data science. enjoy
+My name is Nuttapong Buttprom, I am  a musician and data science learner. It's nice to meet you, and here are some of my contributions and my passion for data science. Enjoy
 
 ### Dashboard
  
@@ -20,7 +20,7 @@ We need to make more careful decisions during COVID 19. So I created this dashbo
 
 **Simple accounts of flea market shops**
 
-I want to know the health of my mom's shop. I start collecting her data in Google sheet then clean and Visualize. 
+I want to know the health of my mom's shop. I start collecting her data in Google sheet then clean, visualize and analyze. 
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/24075/sheet13?:embed=yes&:display_count=yes&:showVizHome=no" width = '1090' height = '850' scrolling='yes' ></iframe>
 
@@ -36,8 +36,12 @@ https://public.tableau.com/views/CovidRankRacing/Covid19-Top10TotalCasesRank?:em
 
 Data source : [Our World in Data COVID-19 dataset](https://github.com/owid/covid-19-data/tree/master/public/data)
 
-### Support or Contact
+### More Viz
 
+- [My Tableau Public Profile](https://public.tableau.com/profile/smith2019#!/)
+
+### Support or Contact
+Most of my work is confidential. If you need a sample for the interview please contact
 - [Email](kokoabassplayer@gmial.com)
 - [Linkedin](https://www.linkedin.com/in/kokoabassplayer/)
 - [Facebook](https://www.linkedin.com/in/kokoabassplayer/)

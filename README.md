@@ -1,6 +1,6 @@
 ## Welcome to my Portfolio
 
-My name is Nuttapong Buttprom, a musician and data science learner. Nice to meet you and this is some of my work and passion in data science
+My name is Nuttapong Buttprom, I am  a musician and data science learner. It's nice to meet you, and here are some of my contributions and my passion for data science. enjoy
 
 ### Dashboard
  

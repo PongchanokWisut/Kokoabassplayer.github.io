@@ -36,5 +36,6 @@ Data source : [Our World in Data COVID-19 dataset](https://github.com/owid/covid
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
+- [Email](kokoabassplayer@gmial.com)
+- [Linkedin](https://www.linkedin.com/in/kokoabassplayer/)
+- [Facebook](https://www.linkedin.com/in/kokoabassplayer/)

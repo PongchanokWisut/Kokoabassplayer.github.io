@@ -18,6 +18,8 @@ We need to make more careful decisions during COVID 19. So I created this dashbo
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/LensodPromotionaftercovid2020-Evaluation/CampaignKPIv1_6?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '800' scrolling='yes' ></iframe>
 
+*No data available to download*
+
 - **Simple accounts of flea market shops**
 
 I want to know the health of my mom's shop. I start collecting her data in Google sheet then clean, visualize and analyze. 
@@ -29,7 +31,7 @@ I want to know the health of my mom's shop. I start collecting her data in Googl
 
 - **COVID-19 Rank Racing**
 
-to learning animation in data visualiazation. what i found is animation add dimention to analysis and it tell a story more clearly, it's make a good sense of what is going on by time. *Unfortunately tableau public not good at animation, to see Full potencial of animation please download workbook (Rigth-down corner button)*
+to learning animation in data visualiazation. what i found is animation add dimention to analysis and it tell a story more clearly, it's make a good sense of what is going on by time. *Unfortunately tableau public not support animation, to see Full potencial of animation please download workbook (Rigth-down corner button)*
 
 <iframe seamless frameborder="0" src="
 https://public.tableau.com/views/CovidRankRacing/Covid19-Top10TotalCasesRank?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '630' scrolling='yes' ></iframe>
@@ -54,7 +56,7 @@ This page would not have been possible without inspiration from [Mr.Charin](http
 
 ### Support or Contact
 
-Most of my work is confidential. If you need a sample for the interview please contact
+Most of my work is confidential. If you need more samples for the interview please contact
 
 - <a href="mailto:kokoabassplayer@gmail.com">Send mail</a>
 - [Linkedin](https://www.linkedin.com/in/kokoabassplayer/)

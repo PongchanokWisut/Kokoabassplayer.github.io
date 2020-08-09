@@ -22,7 +22,7 @@ We need to make more careful decisions during COVID 19. So I created this dashbo
 
 I want to know the health of my mom's shop. I start collecting her data in Google sheet then clean, visualize and analyze. 
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/24075/sheet13?:embed=yes&:display_count=yes&:showVizHome=no" width = '1090' height = '850' scrolling='yes' ></iframe>
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/24075/sheet13?:embed=yes&:display_count=yes&:showVizHome=no" width = '650' height = '400' scrolling='yes' ></iframe>
 
 
 ### Single Chart
@@ -59,9 +59,3 @@ Most of my work is confidential. If you need a sample for the interview please c
 - <a href="mailto:kokoabassplayer@gmail.com">Send mail</a>
 - [Linkedin](https://www.linkedin.com/in/kokoabassplayer/)
 - [Facebook](https://www.linkedin.com/in/kokoabassplayer/)
-
-
-<script src="https://public.tableau.com/views/CovidRankRacing/Covid19-Top10TotalCasesRank?:embed=yes&:display_count=yes&:showVizHome=no"></script>
-<script>
-    iframeMessenger.enableAutoResize();
-</script>

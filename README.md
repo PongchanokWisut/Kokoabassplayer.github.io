@@ -61,3 +61,5 @@ Most of my work is confidential. If you need more samples for the interview plea
 - <a href="mailto:kokoabassplayer@gmail.com">Send mail</a>
 - [Linkedin](https://www.linkedin.com/in/kokoabassplayer/)
 - [Facebook](https://www.facebook.com/KokoaBassPlayer)
+- [Instagram](https://www.instagram.com/kokoabassplayer_rubikk/)
+- [twitter](https://twitter.com/KokoABassPlayer)

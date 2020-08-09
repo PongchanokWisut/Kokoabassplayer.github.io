@@ -6,7 +6,7 @@ My name is Nuttapong Buttprom, I am  a musician and data science learner. It's n
  
 - **Public data visualization**
 
-Since [SEAN B](https://www.facebook.com/SeanBuranahiran/) share his [statement](https://drive.google.com/drive/folders/1NKdg8ZlZfEL-0CIb0AemPp9Dp28lUSmI?fbclid=IwAR3Dsgc2PY1_KFJlZo1rTVUFg4Cw3oCY_hRc8jhLHSlByla3kcyT8btr3ds)(PDF) for transparecy and apologize of campaign to public [post](https://www.facebook.com/SeanBuranahiran/posts/3082422251850578), I wonder how much money is in and out during his campaign, so I made the data in a computer-readable format. And then create this dashboard. [CSILA](https://www.facebook.com/CSILA90210/) (1m+ facebook page) found my work on internet then share it in his [post](https://www.facebook.com/CSILA90210/posts/3152296238181413?d=m)
+Since [SEAN B](https://www.facebook.com/SeanBuranahiran/) share his [statement](https://drive.google.com/drive/folders/1NKdg8ZlZfEL-0CIb0AemPp9Dp28lUSmI?fbclid=IwAR3Dsgc2PY1_KFJlZo1rTVUFg4Cw3oCY_hRc8jhLHSlByla3kcyT8btr3ds)(PDF) for transparecy and apologize of campaign to public [Facebook post](https://www.facebook.com/SeanBuranahiran/posts/3082422251850578), I wonder how much money is in and out during his campaign, so I made the data in a computer-readable format. And then create this dashboard. [CSILA](https://www.facebook.com/CSILA90210/) (1m+ facebook page) found my work on internet then share it in his [post](https://www.facebook.com/CSILA90210/posts/3152296238181413?d=m)
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/SEANB/SEANBIncidentdashboard?:embed=yes&:display_count=yes&:showVizHome=no" width = '1090' height = '830' scrolling='yes' ></iframe>
 

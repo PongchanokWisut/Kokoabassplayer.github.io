@@ -10,6 +10,13 @@ Since [SEAN B](https://www.facebook.com/SeanBuranahiran/) share his [statement](
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/SEANB/SEANBIncidentdashboard?:embed=yes&:display_count=yes&:showVizHome=no" width = '1090' height = '830' scrolling='yes' ></iframe>
 
+
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/SEANB/SEANBIncidentdashboard?:embed=yes&:display_count=yes&:showVizHome=no" width: 100%, height: auto scrolling='yes' ></iframe>
+
+width: 100%, height: auto
+
+
+
 data source : [SEAN B PDF](https://drive.google.com/drive/folders/1NKdg8ZlZfEL-0CIb0AemPp9Dp28lUSmI?fbclid=IwAR3Dsgc2PY1_KFJlZo1rTVUFg4Cw3oCY_hRc8jhLHSlByla3kcyT8btr3ds), [my clean csv](https://docs.google.com/spreadsheets/d/1W9Y1lu0c0Y3xjyGg-2ApxE-TVv0zHRV00TbrblwMoRE/edit?fbclid=IwAR1ABG-webWIpiDsQ0nnH0YbZJjcGBMwZrQzAxGlkk4f29weqo2kCjiMIm4#gid=0)
   
 - **KPI Tracking Dashboard**

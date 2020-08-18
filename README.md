@@ -67,7 +67,7 @@ please check [my solutuion for datacamp project](https://github.com/Kokoabasspla
 
 ## Thank note
 
-This page would not have been possible without inspiration from [Mr.Charin](https://github.com/cstorm125). And the [Data Science BKK](https://www.facebook.com/groups/dsbkkgroup/) and [Data Science Th](https://www.facebook.com/groups/PAaDS/) Community in thailand. I appreciate the help and encouragement that everyone has given me.
+This page would not have been possible without inspiration from [Mr.Charin Polpanumas](https://github.com/cstorm125). And the [Data Science BKK](https://www.facebook.com/groups/dsbkkgroup/) and [Data Science Th](https://www.facebook.com/groups/PAaDS/) Community in thailand. I appreciate the help and encouragement that everyone has given me.
 
 ### Support or Contact
 

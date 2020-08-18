@@ -1,5 +1,7 @@
 ## Welcome to my Portfolio
 
+![My Profile Photo](https://user-images.githubusercontent.com/61007612/90506131-f96c3000-e17d-11ea-8bf0-646bb755e751.jpg)
+
 My name is Nuttapong Buttprom, I am  a musician and data science learner. It's nice to meet you, and here are some of my work and my passion for data science. You can download my workbook(if data is not confidential) for more details on creating it in the bottom right corner of the chart. Enjoy
 
 ### #MakeoverMonday
@@ -11,7 +13,7 @@ I discovered that the more I try to do this project, The more I learn new things
 I start at 2020 week 33, And this is my first #MakeoverMonday project. 
 
 <iframe seamless frameborder="0" src="
-https://public.tableau.com/views/MAKEOVERMONDAY2020-W33-Scotland-ThestateoftheDigitalNation/Scotland?:language=en&:display_count=yes&:showVizHome=no" width = '100%' height = '550' scrolling='yes' ></iframe>
+https://public.tableau.com/views/MAKEOVERMONDAY2020-W33-Scotland-ThestateoftheDigitalNation/Scotland?:language=en&:display_count=yes&:showVizHome=no" width = '100%' height = '600' scrolling='yes' ></iframe>
 
 Data source : [Company Connecting](https://companyconnecting.com/news/stats-graphs-and-interesting-facts)
 

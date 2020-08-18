@@ -70,7 +70,7 @@ here is [my DataCamp profile](https://www.datacamp.com/profile/kokoabassplayer)
 
 They has provided a project to practice what I have learned, feel free to check it out in the link below.
 
-- please check [my solutuion for datacamp project](https://github.com/Kokoabassplayer/Kokoabassplayer.github.io/tree/master/Datacamp%20Project)
+- [my solutuion for datacamp project](https://github.com/Kokoabassplayer/Kokoabassplayer.github.io/tree/master/Datacamp%20Project)
 
 ## Thank note
 

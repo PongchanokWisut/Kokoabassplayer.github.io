@@ -46,7 +46,7 @@ Data source : [Our World in Data COVID-19 dataset](https://github.com/owid/covid
 
 I am constantly learning python at [DataCamp](https://www.datacamp.com/?utm_source=adwords_ppc&utm_campaignid=1242944157&utm_adgroupid=58673827368&utm_device=c&utm_keyword=datacamp&utm_matchtype=e&utm_network=g&utm_adpostion=&utm_creative=340731356767&utm_targetid=kwd-297372810188&utm_loc_interest_ms=&utm_loc_physical_ms=1012728&gclid=EAIaIQobChMI2dbpkqCN6wIVFR4rCh2mQgi4EAAYASAAEgIC3PD_BwE). here is [my DataCamp profile](https://www.datacamp.com/profile/kokoabassplayer).
 
-### DataCamp Project
+- **DataCamp Project**
 
 please check [my solutuion for datacamp project](https://github.com/Kokoabassplayer/Kokoabassplayer.github.io/tree/master/Datacamp%20Project)
 

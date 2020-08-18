@@ -27,7 +27,7 @@ I want to know the health of my mom's shop. I start collecting her data in Googl
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/24075/sheet13?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '800' scrolling='yes' ></iframe>
 
 
-### Single Chart
+### Data Visualization
 
 - **COVID-19 Rank Racing**
 

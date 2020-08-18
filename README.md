@@ -2,7 +2,7 @@
 
 ![My Profile Photo](https://user-images.githubusercontent.com/61007612/90506131-f96c3000-e17d-11ea-8bf0-646bb755e751.jpg)
 
-My name is Nuttapong Buttprom, I am  a musician and data science learner. It's nice to meet you, and here are some of my work and my passion for data science. You can download my workbook(if data is not confidential) for more details on creating it in the bottom right corner of the chart. Enjoy
+My name is Nuttapong Buttprom, I am  a musician and data science learner. It's nice to meet you, and here are some of my work and my passion for data science. You can download my workbook(if data is not confidential) for more details on creating it in the bottom right corner of the chart. also can [View on GitHub](https://github.com/Kokoabassplayer) , Enjoy
 
 ### #MakeoverMonday
 
@@ -74,7 +74,7 @@ They has provided a project to practice what I have learned, feel free to check 
 
 ## Thank note
 
-This page would not have been possible without inspiration from [Mr.Charin Polpanumas](https://github.com/cstorm125). And the [Data Science BKK](https://www.facebook.com/groups/dsbkkgroup/) and [Data Science Th](https://www.facebook.com/groups/PAaDS/) Community in thailand. I appreciate the help and encouragement that everyone has given me.
+This page would not have been possible without inspiration from [Mr.Charin Polpanumas](https://github.com/cstorm125). And the [Data Science BKK](https://www.facebook.com/groups/dsbkkgroup/) and [Data Science Th](https://www.facebook.com/groups/PAaDS/) community in thailand. I appreciate the help and encouragement that everyone has given me.
 
 ### Support or Contact
 

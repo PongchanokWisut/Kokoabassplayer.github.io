@@ -4,7 +4,7 @@ My name is Nuttapong Buttprom, I am  a musician and data science learner. It's n
 
 ### #MakeoverMonday
 
-I discovered that the more I try to do this project, The more I learn new things. That's because many people compete. And everyone is helping others as well, it's a great comunity, their work has really inspired me and I believe that practicing through this project will help me become a better Data Analyst.
+I discovered that the more I try to do this project, The more I learn new things. That's because many people compete. And everyone is helping others as well, it's a great community, their work has really inspired me and I believe that practicing through this project will help me become a better Data Analyst.
 
 - **Scotland - The state of the Digital Nation**
 

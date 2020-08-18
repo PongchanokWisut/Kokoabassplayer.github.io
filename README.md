@@ -2,6 +2,19 @@
 
 My name is Nuttapong Buttprom, I am  a musician and data science learner. It's nice to meet you, and here are some of my contributions and my passion for data science. You can download my workbook(if data is not confidential) for more details on creating it in the bottom right corner of the chart. Enjoy
 
+### MakeoverMonday
+
+I discovered that the more I try to do this project, The more I learn new things. That's because many people compete. And everyone is helping others as well, it's a great comunity, their work has really inspired me and I believe that practicing through this project will help me become a better Data Analyst.
+
+- **Scotland - The state of the Digital Nation**
+
+I start at 2020 week 33, And this is my first #MakeoverMonday project. 
+
+<iframe seamless frameborder="0" src="
+https://public.tableau.com/views/MAKEOVERMONDAY2020-W33-Scotland-ThestateoftheDigitalNation/Scotland?:language=en&:display_count=yes&:showVizHome=no" width = '100%' height = '630' scrolling='yes' ></iframe>
+
+Data source : [Company Connecting](https://companyconnecting.com/news/stats-graphs-and-interesting-facts)
+
 ### Dashboard
  
 - **Public data visualization**
@@ -31,7 +44,7 @@ I want to know the health of my mom's shop. I start collecting her data in Googl
 
 - **COVID-19 Rank Racing**
 
-to learning animation in data visualiazation. what i found is animation add dimention to analysis and it tell a story more clearly, it's make a good sense of what is going on by time. *Unfortunately tableau public not support animation, to see Full potencial of animation please download workbook (Rigth-down corner button)*
+to learning animation in data visualiazation. what i found is animation add dimention to analysis and it tell a story more clearly, it's make a good sense of what is going on by time. *Unfortunately tableau public server is not good at animation, to see Full potencial of animation please download workbook (Rigth-down corner button)*
 
 <iframe seamless frameborder="0" src="
 https://public.tableau.com/views/CovidRankRacing/Covid19-Top10TotalCasesRank?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '630' scrolling='yes' ></iframe>

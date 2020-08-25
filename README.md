@@ -4,9 +4,11 @@
 
 My name is Nuttapong Buttprom, I am  a musician and data science learner. It's nice to meet you, and here are some of my work and my passion for data science. You can download my workbook(if data is not confidential) for more details on creating it in the bottom right corner of the chart. also can [View on GitHub](https://github.com/Kokoabassplayer) , Enjoy
 
+
 ### #MakeoverMonday
 
 I discovered that the more I try to do this project, The more I learn new things. That's because many people compete. And everyone is helping others as well, it's a great community, their work has really inspired me and I believe that practicing through this project will help me become a better Data Analyst.
+
 
 - **Scotland - The state of the Digital Nation**
 
@@ -16,6 +18,19 @@ I start at 2020 week 33, And this is my first #MakeoverMonday project.
 https://public.tableau.com/views/MAKEOVERMONDAY2020-W33-Scotland-ThestateoftheDigitalNation/Scotland?:language=en&:display_count=yes&:showVizHome=no" width = '100%' height = '600' scrolling='yes' ></iframe>
 
 Data source : [Company Connecting](https://companyconnecting.com/news/stats-graphs-and-interesting-facts)
+
+
+
+- **Top Thailand Professor**
+
+It's my 2020 week 34, But this Viz is not for #MakeoverMonday, I makeover for a friends. 
+
+<iframe seamless frameborder="0" src="
+https://public.tableau.com/views/TopThailandProfessor/Dashboard2?:language=en&:display_count=yes&:showVizHome=no" width = '100%' height = '600' scrolling='yes' ></iframe>
+
+Data source : *Not available*
+
+
 
 ### Dashboard
  
@@ -37,6 +52,8 @@ We need to make more careful decisions during COVID 19. So I created this dashbo
 
 Data source : *Not available*
 
+
+
 - **Simple accounts of flea market shops**
 
 I want to know the health of my mom's shop. I start collecting her data in Google sheet then clean, visualize and analyze. 
@@ -44,6 +61,8 @@ I want to know the health of my mom's shop. I start collecting her data in Googl
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/24075/sheet13?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '800' scrolling='yes' ></iframe>
 
 Data source : *Not available*
+
+
 
 ### Data Visualization
 
@@ -56,9 +75,13 @@ https://public.tableau.com/views/CovidRankRacing/Covid19-Top10TotalCasesRank?:em
 
 Data source : [Our World in Data COVID-19 dataset](https://github.com/owid/covid-19-data/tree/master/public/data)
 
+
+
 ### More Viz
 
 - [My Tableau Public Profile](https://public.tableau.com/profile/smith2019#!/)
+
+
 
 ## Python 
 
@@ -66,15 +89,18 @@ Data source : [Our World in Data COVID-19 dataset](https://github.com/owid/covid
 I am constantly learning python, SQL and I mean that by the end of 2020 I have to be able to implement machine learning.
 here is [my DataCamp profile](https://www.datacamp.com/profile/kokoabassplayer)
 
+
 ### DataCamp Project
 
 They has provided a project to practice what I have learned, feel free to check it out in the link below.
 
 - [my solutuion for datacamp project](https://github.com/Kokoabassplayer/Kokoabassplayer.github.io/tree/master/Datacamp%20Project)
 
+
 ## Thank note
 
 This page would not have been possible without inspiration from [Mr.Charin Polpanumas](https://github.com/cstorm125). And the [Data Science BKK](https://www.facebook.com/groups/dsbkkgroup/) and [Data Science Th](https://www.facebook.com/groups/PAaDS/) community in thailand. I appreciate the help and encouragement that everyone has given me.
+
 
 ### Support or Contact
 

@@ -12,12 +12,16 @@ I discovered that the more I try to do this project, The more I learn new things
 
 - **Top Thailand Professor**
 
-It's my 2020 week 34, But this Viz is not for #MakeoverMonday, I makeover for a friends. 
+It's my 2020 week 34, But this Viz is not for #MakeoverMonday, I makeover for a friends. This chart tell us **Who is the best Professor in thailand (in there field)**, Firstly you can Choose whatever **Field of Study** then choose **Measurement**. because every field of study is different, I make this visualization to fair compare in the same field. I also include some simple count of *H Index* and percentage in the *right tab* for those who curious. However [H-index is not a perfect measurement](http://ortho2.md.chula.ac.th/index.php/h-index.html), I have a plan to make it show new indicator refer to [new criteria and procedure for appointing a person
+To hold the position of Assistant Professor Associate Professor And professor](http://www.personnel.psu.ac.th/per10.html) and since this [new criteria and procedure is not better than previous](https://www.isranews.org/article/isranews-article/89858-theera.html), Industry insiders have commented that it is inappropriate to use at this time. It has been announced to [postpone its enforcement for another 3 years](https://www.matichon.co.th/education/news_2247070).
 
 <iframe seamless frameborder="0" src="
 https://public.tableau.com/views/TopThailandProfessor/Dashboard2?:language=en&:display_count=yes&:showVizHome=no" width = '100%' height = '600' scrolling='yes' ></iframe>
 
-Data source : *Not available*
+Data source : [ทำเนียบผู้ดำรงตำแหน่งทางวิชาการแห่งชาติ](https://docs.google.com/spreadsheets/d/1f3fSsLc1gEZ7diiIWrrhmd4-iy-2MZpiEsQkcG-slS8/edit?usp=sharing) and [Scopus Preview](https://docs.google.com/spreadsheets/d/1f3fSsLc1gEZ7diiIWrrhmd4-iy-2MZpiEsQkcG-slS8/edit?usp=sharing)
+CSV : [Google Sheet](https://docs.google.com/spreadsheets/d/1f3fSsLc1gEZ7diiIWrrhmd4-iy-2MZpiEsQkcG-slS8/edit?usp=sharing)
+
+Thank for [Mr.Charin Polpanumas](https://github.com/cstorm125) for providing raw data.
 
 
 - **Scotland - The state of the Digital Nation**

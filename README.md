@@ -15,6 +15,10 @@ I discovered that the more I try to do this project, The more I learn new things
 
 #MakeoverMonday 2020/W36: Calories and Sugar in Cereals
 
+ซีเรียลที่เรากินตอนเช้าๆทุกวัน ดีต่อสุขภาพจริงหรือ? 
+
+จากชาร์ทเราจะเห็นได้ชัดว่า 10อันดับสูงสุดของยี้ห้อต่างๆ มีน้ำตาลและพลังงานข้านข้างสูงทีเดียว แต่ว่ายังมีโชคดีอยู่บ้างที่ซีเรียลเหล่านี้มี rating ไม่สูงนัก แต่ไม่ใช่ทั้งหมดจะเป็นเช่นนั้นเสมอไป มีบางยี่ห้อที่มีน้ำตาลและพลังงานสูง แต่กลับได้ rating ระดับกลางเช่นกัน ซึ่งเป็นอันที่หนึ่งและสองเสียด้วย จึงเป็นที่น่าเป็นห่วงต่อสุขภาพของผู้บริโภค
+
 <iframe seamless frameborder="0" src="
 https://public.tableau.com/views/MakeoverMonday2020W36CaloriesandSugarinCereals_15994953135690/Caloriesandsugarin80differentcereals?:language=en&:display_count=y&publish=yes&:origin=viz_share_link" width = '100%' height = '600' scrolling='yes' ></iframe>
 

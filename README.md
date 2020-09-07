@@ -5,9 +5,22 @@
 My name is Nuttapong Buttprom, I am  a musician and data science learner. It's nice to meet you, and here are some of my work and my passion for data science. You can download my workbook(if data is not confidential) for more details on creating it in the bottom right corner of the chart. also can [View on GitHub](https://github.com/Kokoabassplayer) , Enjoy
 
 
-### #MakeoverMonday
+### #MakeoverMonday Project
 
 I discovered that the more I try to do this project, The more I learn new things. That's because many people compete. And everyone is helping others as well, it's a great community, their work has really inspired me and I believe that practicing through this project will help me become a better Data Analyst.
+
+
+
+- **Calories and Sugar in Cereals**
+
+#MakeoverMonday 2020/W36: Calories and Sugar in Cereals
+
+<iframe seamless frameborder="0" src="
+https://public.tableau.com/views/MakeoverMonday2020W36CaloriesandSugarinCereals_15994953135690/Caloriesandsugarin80differentcereals?:language=en&:display_count=y&publish=yes&:origin=viz_share_link" width = '100%' height = '600' scrolling='yes' ></iframe>
+
+Source Article: [Breakfast Cereals: Healthy or Unhealthy?](https://www.healthline.com/nutrition/are-breakfast-cereals-healthy)
+Data source: [Kaggle](https://www.kaggle.com/crawford/80-cereals?select=cereal.csv)
+
 
 
 - **Top Thailand Professor**

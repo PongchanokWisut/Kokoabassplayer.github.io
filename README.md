@@ -4,15 +4,11 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Kokoabassplayer)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Kokoabassplayer&show_icons=true&theme=default )
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kokoabassplayer&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kokoabassplayer&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kokoabassplayer&show_icons=true&theme=default" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kokoabassplayer" />
 </a>
 
 

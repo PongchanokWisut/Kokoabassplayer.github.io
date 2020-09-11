@@ -2,6 +2,8 @@
 
 ![My Profile Photo](https://user-images.githubusercontent.com/61007612/90506131-f96c3000-e17d-11ea-8bf0-646bb755e751.jpg)
 
+My name is Nuttapong Buttprom, I am  a musician and data science learner. It's nice to meet you, and here are some of my work and my passion for data science. You can download my workbook(if data is not confidential) for more details on creating it in the bottom right corner of the chart. also can [View on GitHub](https://github.com/Kokoabassplayer) , Enjoy
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Kokoabassplayer&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -11,10 +13,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kokoabassplayer&theme=onedark" />
 </a>
 
-
-
-
-My name is Nuttapong Buttprom, I am  a musician and data science learner. It's nice to meet you, and here are some of my work and my passion for data science. You can download my workbook(if data is not confidential) for more details on creating it in the bottom right corner of the chart. also can [View on GitHub](https://github.com/Kokoabassplayer) , Enjoy
 
 
 ### #MakeoverMonday Project

@@ -4,7 +4,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Kokoabassplayer)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default )
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Kokoabassplayer&show_icons=true&theme=default )
 
 
 

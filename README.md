@@ -2,13 +2,13 @@
 
 ![My Profile Photo](https://user-images.githubusercontent.com/61007612/90506131-f96c3000-e17d-11ea-8bf0-646bb755e751.jpg)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Kokoabassplayer)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Kokoabassplayer&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kokoabassplayer&show_icons=true&theme=default" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kokoabassplayer&show_icons=true&theme=onedark " />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kokoabassplayer" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kokoabassplayer&theme=onedark&layout=compact" />
 </a>
 
 

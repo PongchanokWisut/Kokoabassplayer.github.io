@@ -6,6 +6,9 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Kokoabassplayer&show_icons=true&theme=default )
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kokoabassplayer&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 My name is Nuttapong Buttprom, I am  a musician and data science learner. It's nice to meet you, and here are some of my work and my passion for data science. You can download my workbook(if data is not confidential) for more details on creating it in the bottom right corner of the chart. also can [View on GitHub](https://github.com/Kokoabassplayer) , Enjoy

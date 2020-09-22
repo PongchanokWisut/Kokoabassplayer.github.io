@@ -22,6 +22,20 @@ My name is Nuttapong Buttprom, I am  a musician and data science learner. It's n
 I discovered that the more I try to do this project, The more I learn new things. That's because many people compete. And everyone is helping others as well, it's a great community, their work has really inspired me and I believe that practicing through this project will help me become a better Data Analyst.
 
 
+- **Pick up a book and read!**
+
+#MakeoverMonday 2020/w38: Pick up a book and read!
+
+Social distancing, lockdowns, teleworking and tele-schooling, introduced to limit the damages by the coronavirus pandemic ravaging the European Union (EU) and the world, force most of us to spend most of our time at home. So why not make the best of it? Pick up a book and read! Let your imagination free, expand your horizons and learn something new – alone, with your children or your parents!
+ 
+Buying a book is relatively affordable. The price of books in the EU is growing more slowly than the total consumer prices, as measured by the monthly Harmonised Index of Consumer Prices (HICP). Between February 2010 and February 2020, the price of books increased by 9%, compared to 14% for total consumer prices. 
+
+<iframe seamless frameborder="0" src="
+https://public.tableau.com/views/2020w38Pickupabookandread/Dashboard1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link" width = '100%' height = '600' scrolling='yes' ></iframe>
+
+Source Article: [Pick up a book and read!](https://ec.europa.eu/eurostat/en/web/products-eurostat-news/-/EDN-20200422-1)
+Data source: [eurostat](https://appsso.eurostat.ec.europa.eu/nui/show.do?query=BOOKMARK_DS-055106_QID_2BA8FB1D_UID_-3F171EB0&layout=TIME,C,X,0;COICOP,B,Y,0;UNIT,B,Z,0;GEO,B,Z,1;INDICATORS,C,Z,2;&zSelection=DS-055106INDICATORS,OBS_FLAG;DS-055106GEO,EU27_2020;DS-055106UNIT,I15;&rankName1=UNIT_1_2_-1_2&rankName2=INDICATORS_1_2_-1_2&rankName3=GEO_1_2_1_1&rankName4=TIME_1_0_0_0&rankName5=COICOP_1_2_0_1&sortC=ASC_-1_FIRST&rStp=&cStp=&rDCh=&cDCh=&rDM=true&cDM=true&footnes=false&empty=false&wai=false&time_mode=NONE&time_most_recent=false&lang=EN&cfo=%23%23%23%2C%23%23%23.%23%23%23)
+
 
 - **Calories and Sugar in Cereals**
 

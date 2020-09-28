@@ -27,7 +27,7 @@ I discovered that the more I try to do this project, The more I learn new things
 เมื่อวานนี้ เพื่อนนักดนตรีของผมคนนึง เค้าโดนผู้ว่าจ้างโกงค่าจ้าง ผมเลยเกิดแรงบันดาลใจในการวิเคราะห์ราคาค่าจ้างวงดนตรี เพื่อเป็นวิทยาทานต่อเพื่อนๆในวงการ เป็นผลงานชิ้นนี้
 
 <iframe seamless frameborder="0" src="
-https://public.tableau.com/views/FullBand_/Dashboard1?:language=en&:display_count=y&:origin=viz_share_link" width = '100%' height = '600' scrolling='yes' ></iframe>
+https://public.tableau.com/views/FullBand_/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '600' scrolling='yes' ></iframe>
 
 
 - **Pick up a book and read!**

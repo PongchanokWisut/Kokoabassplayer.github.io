@@ -22,6 +22,14 @@ My name is Nuttapong Buttprom, I am  a musician and data science learner. It's n
 I discovered that the more I try to do this project, The more I learn new things. That's because many people compete. And everyone is helping others as well, it's a great community, their work has really inspired me and I believe that practicing through this project will help me become a better Data Analyst.
 
 
+- **ค่าจ้างขั้นต่ำต่อวง ของ วงดนตรี Full Band ในประเทศไทย ราคาเท่าไหร่?**
+
+เมื่อวานนี้ เพื่อนนักดนตรีของผมคนนึง เค้าโดนผู้ว่าจ้างโกงค่าจ้าง ผมเลยเกิดแรงบันดาลใจในการวิเคราะห์ราคาค่าจ้างวงดนตรี เพื่อเป็นวิทยาทานต่อเพื่อนๆในวงการ เป็นผลงานชิ้นนี้
+
+<iframe seamless frameborder="0" src="
+https://public.tableau.com/views/FullBand/Dashboard1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link" width = '100%' height = '600' scrolling='yes' ></iframe>
+
+
 - **Pick up a book and read!**
 
 #MakeoverMonday 2020/w38: Pick up a book and read!

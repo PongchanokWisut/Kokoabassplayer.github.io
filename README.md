@@ -22,12 +22,17 @@ My name is Nuttapong Buttprom, I am  a musician and data science learner. It's n
 I discovered that the more I try to do this project, The more I learn new things. That's because many people compete. And everyone is helping others as well, it's a great community, their work has really inspired me and I believe that practicing through this project will help me become a better Data Analyst.
 
 
+
 - **ค่าจ้างขั้นต่ำต่อวง ของ วงดนตรี Full Band ในประเทศไทย ราคาเท่าไหร่?**
 
 เมื่อวานนี้ เพื่อนนักดนตรีของผมคนนึง เค้าโดนผู้ว่าจ้างโกงค่าจ้าง ผมเลยเกิดแรงบันดาลใจในการวิเคราะห์ราคาค่าจ้างวงดนตรี เพื่อเป็นวิทยาทานต่อเพื่อนๆในวงการ เป็นผลงานชิ้นนี้
 
 <iframe seamless frameborder="0" src="
 https://public.tableau.com/views/FullBand_/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '600' scrolling='yes' ></iframe>
+
+Source Article: [Post ต้นทาง](https://www.facebook.com/copy66/posts/4186692118061861)
+Data source: [LENSOD](https://www.lensod.com/)
+
 
 
 - **Pick up a book and read!**
@@ -43,6 +48,7 @@ https://public.tableau.com/views/2020w38Pickupabookandread/Dashboard1?:language=
 
 Source Article: [Pick up a book and read!](https://ec.europa.eu/eurostat/en/web/products-eurostat-news/-/EDN-20200422-1)
 Data source: [eurostat](https://appsso.eurostat.ec.europa.eu/nui/show.do?query=BOOKMARK_DS-055106_QID_2BA8FB1D_UID_-3F171EB0&layout=TIME,C,X,0;COICOP,B,Y,0;UNIT,B,Z,0;GEO,B,Z,1;INDICATORS,C,Z,2;&zSelection=DS-055106INDICATORS,OBS_FLAG;DS-055106GEO,EU27_2020;DS-055106UNIT,I15;&rankName1=UNIT_1_2_-1_2&rankName2=INDICATORS_1_2_-1_2&rankName3=GEO_1_2_1_1&rankName4=TIME_1_0_0_0&rankName5=COICOP_1_2_0_1&sortC=ASC_-1_FIRST&rStp=&cStp=&rDCh=&cDCh=&rDM=true&cDM=true&footnes=false&empty=false&wai=false&time_mode=NONE&time_most_recent=false&lang=EN&cfo=%23%23%23%2C%23%23%23.%23%23%23)
+
 
 
 - **Calories and Sugar in Cereals**
@@ -87,6 +93,7 @@ https://public.tableau.com/views/MAKEOVERMONDAY2020-W33-Scotland-ThestateoftheDi
 Data source : [Company Connecting](https://companyconnecting.com/news/stats-graphs-and-interesting-facts)
 
 
+
 ### Dashboard
  
 - **SEAN B Incident**
@@ -98,6 +105,7 @@ Since [SEAN B](https://www.facebook.com/SeanBuranahiran/) share his [statement](
 data source : [SEAN B PDF](https://drive.google.com/drive/folders/1NKdg8ZlZfEL-0CIb0AemPp9Dp28lUSmI?fbclid=IwAR3Dsgc2PY1_KFJlZo1rTVUFg4Cw3oCY_hRc8jhLHSlByla3kcyT8btr3ds) / cleaned data : [my clean csv](https://docs.google.com/spreadsheets/d/1W9Y1lu0c0Y3xjyGg-2ApxE-TVv0zHRV00TbrblwMoRE/edit?fbclid=IwAR1ABG-webWIpiDsQ0nnH0YbZJjcGBMwZrQzAxGlkk4f29weqo2kCjiMIm4#gid=0)
 
 
+
 - **KPI Tracking Dashboard**
 
 We need to make more careful decisions during COVID 19. So I created this dashboard to keep track of promotion campaign. I add indicator to identify problem of actual & target (red bullet chart), cost limitation indicator is also add too (top right red line)
@@ -107,6 +115,7 @@ We need to make more careful decisions during COVID 19. So I created this dashbo
 Data source : *Not available*
 
 
+
 - **Simple accounts of flea market shops**
 
 I want to know the health of my mom's shop. I start collecting her data in Google sheet then clean, visualize and analyze. 
@@ -114,6 +123,7 @@ I want to know the health of my mom's shop. I start collecting her data in Googl
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/24075/sheet13?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '800' scrolling='yes' ></iframe>
 
 Data source : *Not available*
+
 
 
 ### Data Visualization
@@ -128,9 +138,11 @@ https://public.tableau.com/views/CovidRankRacing/Covid19-Top10TotalCasesRank?:em
 Data source : [Our World in Data COVID-19 dataset](https://github.com/owid/covid-19-data/tree/master/public/data)
 
 
+
 ### More Viz
 
 - [My Tableau Public Profile](https://public.tableau.com/profile/smith2019#!/)
+
 
 
 ## Python 
@@ -140,6 +152,7 @@ I am constantly learning python, SQL and I mean that by the end of 2020 I have t
 here is [my DataCamp profile](https://www.datacamp.com/profile/kokoabassplayer)
 
 
+
 ### DataCamp Project
 
 They has provided a project to practice what I have learned, feel free to check it out in the link below.
@@ -147,9 +160,11 @@ They has provided a project to practice what I have learned, feel free to check 
 - [my solutuion for datacamp project](https://github.com/Kokoabassplayer/Kokoabassplayer.github.io/tree/master/Datacamp%20Project)
 
 
+
 ## Thank note
 
 This page would not have been possible without inspiration from [Mr.Charin Polpanumas](https://github.com/cstorm125). And the [Data Science BKK](https://www.facebook.com/groups/dsbkkgroup/) and [Data Science Th](https://www.facebook.com/groups/PAaDS/) community in thailand. I appreciate the help and encouragement that everyone has given me.
+
 
 
 ### Support or Contact

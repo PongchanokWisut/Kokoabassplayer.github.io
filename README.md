@@ -162,8 +162,3 @@ Most of my work is confidential. If you need more samples for the interview plea
 - [Instagram](https://www.instagram.com/kokoabassplayer_rubikk/)
 - [twitter](https://twitter.com/KokoABassPlayer)
 - [Resume](https://www.canva.com/design/DAEBrLjlWZY/wG2e_4HDzDM1lsYUFcDJTg/view?utm_content=DAEBrLjlWZY&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
-
-[NUTTAPONG BUTPROM](https://kokoabassplayer.github.io/)
-[LENSOD](https://www.lensod.com/)
-[SONGGROD SIRISUKWATTANA](https://www.facebook.com/copy66/posts/4186692118061861)
-

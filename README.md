@@ -178,4 +178,3 @@ Most of my work is confidential. If you need more samples for the interview plea
 - [twitter](https://twitter.com/KokoABassPlayer)
 - [Resume](https://www.canva.com/design/DAEBrLjlWZY/wG2e_4HDzDM1lsYUFcDJTg/view?utm_content=DAEBrLjlWZY&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="th_TH" data-type="horizontal" data-theme="light" data-vanity="kokoabassplayer"><a class="LI-simple-link" href='https://th.linkedin.com/in/kokoabassplayer?trk=profile-badge'>Nuttapong Buttprom</a></div>

@@ -23,11 +23,7 @@ I discovered that the more I try to do this project, The more I learn new things
 
 
 
-- **If there is a crisis, how much will we be prepared for?**
-
-Someone said that we should "Earn 1 times more than expenses ", "The reserve is at least 3 months" and "Should not have an installment payment exceeding 50% of income". 
-Failure to pass these criteria is a financial danger signal.
-Do each of us have enough?
+- **Family Reserve Fund & Financial Health**
 
 It is designed to motivate for saving more and prepare our members for the crisis of the future. If anyone fails This fund will help as a cushion.
 

@@ -23,6 +23,22 @@ I discovered that the more I try to do this project, The more I learn new things
 
 
 
+- **If there is a crisis, how much will we be prepared for?**
+
+Someone said that we should "Earn 1 times more than expenses ", "The reserve is at least 3 months" and "Should not have an installment payment exceeding 50% of income". 
+Failure to pass these criteria is a financial danger signal.
+Do each of us have enough?
+
+It is designed to motivate for saving more and prepare our members for the crisis of the future. If anyone fails This fund will help as a cushion.
+
+<iframe seamless frameborder="0" src="
+https://public.tableau.com/views/FamilyReserveFundFinancialHealth/FamilyReserveFundFinancialHealth:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '800' scrolling='yes' ></iframe>
+
+Inspiration: [Money Class](https://www.facebook.com/moneyclass.co)
+
+Data source: *Not available*
+
+
 - **ค่าจ้างขั้นต่ำต่อวง ของ วงดนตรี Full Band ในประเทศไทย ราคาเท่าไหร่?**
 
 เมื่อวานนี้ เพื่อนนักดนตรีของผมคนนึง เค้าโดนผู้ว่าจ้างโกงค่าจ้าง ผมเลยเกิดแรงบันดาลใจในการวิเคราะห์ราคาค่าจ้างวงดนตรี เพื่อเป็นวิทยาทานต่อเพื่อนๆในวงการ เป็นผลงานชิ้นนี้

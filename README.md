@@ -32,7 +32,7 @@ Do each of us have enough?
 It is designed to motivate for saving more and prepare our members for the crisis of the future. If anyone fails This fund will help as a cushion.
 
 <iframe seamless frameborder="0" src="
-https://public.tableau.com/views/FamilyReserveFundFinancialHealth/FamilyReserveFundFinancialHealth:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '800' scrolling='yes' ></iframe>
+https://public.tableau.com/views/FamilyReserveFundFinancialHealth/FamilyReserveFundFinancialHealth?:language=en&:display_count=y&:origin=viz_share_link" width = '100%' height = '800' scrolling='yes' ></iframe>
 
 Inspiration: [Money Class](https://www.facebook.com/moneyclass.co)
 

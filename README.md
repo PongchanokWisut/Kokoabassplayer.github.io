@@ -28,12 +28,14 @@ I discovered that the more I try to do this project, The more I learn new things
 It is designed to motivate for saving more and prepare our members for the crisis of the future. If anyone fails This fund will help as a cushion.
 
 Version: Family
+
 Layout: Desktop + Mobile
 
 <iframe seamless frameborder="0" src="
 https://public.tableau.com/views/FamilyReserveFundFinancialHealth/FamilyReserveFundFinancialHealth?:language=en&:display_count=y&:origin=viz_share_link" width = '100%' height = '800' scrolling='yes' ></iframe>
 
 Version: Personal
+
 Also my first "Mobile First" design.
 
 <iframe seamless frameborder="0" src="

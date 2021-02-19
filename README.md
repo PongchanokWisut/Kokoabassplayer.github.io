@@ -17,6 +17,8 @@ My name is Nuttapong Buttprom, I am  a musician and data science learner. It's n
 
 ### Guest Speaker
 
+- **Virtual Thailand Tableau User Group : Feb 2021**
+
 I am honored and grateful that Ms.[Siroros Roongdonsai](https://public.tableau.com/profile/siroros.roongdonsai#!/),She is the Tableau Public Ambassador and Leader of [Tableau User Group Thailand](https://www.facebook.com/groups/TableauUserGroupThailand) invited me to [Virtual Thailand Tableau User Group : Feb 2021 Event](https://usergroups.tableau.com/thailandtug2021?fbclid=IwAR0S8BFei64gymxOWaf1TkANf4Hmdd8169bJVv5A1y8VVrN_tqsxSarqvdA) to share my learning experience. And working in the field that I intend to be.
 
 This community is very cute and warm 🤘😆

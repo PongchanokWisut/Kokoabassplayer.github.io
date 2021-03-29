@@ -42,7 +42,7 @@ The imposition of a new Covid lockdown resulted in the biggest monthly decline i
 Experts said the scale of the decline in January trade was unlikely to be permanent because there was evidence companies stockpiled goods before the Brexit deadline, meaning they would not need to send as many shipments as usual in January.
 
 <iframe seamless frameborder="0" src="
-https://public.tableau.com/profile/smith2019#!/vizhome/2021_W13_UK_Exports_to_EU_have_plunged_since_Brexit/ExportstoEUplungeby40infirstmonthsinceBrexit?publish=yes" width = '100%' height = '1000' scrolling='yes' ></iframe>
+https://public.tableau.com/views/2021_W13_UK_Exports_to_EU_have_plunged_since_Brexit/ExportstoEUplungeby40infirstmonthsinceBrexit?:language=en&:display_count=y&:origin=viz_share_link" width = '100%' height = '1000' scrolling='yes' ></iframe>
 
 SOURCE ARTICLE: [The Guardian](https://www.theguardian.com/business/2021/mar/12/exports-to-eu-plunge-in-first-month-since-brexit-uk-economy)
 

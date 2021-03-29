@@ -34,6 +34,20 @@ Thank you very much.
 I discovered that the more I try to do this project, The more I learn new things. That's because many people compete. And everyone is helping others as well, it's a great community, their work has really inspired me and I believe that practicing through this project will help me become a better Data Analyst.
 
 
+- **2021/W13: UK Exports to EU have plunged since Brexit**
+
+UK Exports to EU plunge by 40% in first month since Brexit
+
+The imposition of a new Covid lockdown resulted in the biggest monthly decline in British trade for more than 20 years.
+Experts said the scale of the decline in January trade was unlikely to be permanent because there was evidence companies stockpiled goods before the Brexit deadline, meaning they would not need to send as many shipments as usual in January.
+
+<iframe seamless frameborder="0" src="
+https://public.tableau.com/profile/smith2019#!/vizhome/2021_W13_UK_Exports_to_EU_have_plunged_since_Brexit/ExportstoEUplungeby40infirstmonthsinceBrexit?publish=yes" width = '100%' height = '1000' scrolling='yes' ></iframe>
+
+SOURCE ARTICLE: [The Guardian](https://www.theguardian.com/business/2021/mar/12/exports-to-eu-plunge-in-first-month-since-brexit-uk-economy)
+
+DATA SOURCE: [ONS - UK trade goods and services publication table 14 (expressed as £ million)](https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/datasets/uktradegoodsandservicespublicationtables)
+
 
 - **Family Reserve Fund & Financial Health**
 

@@ -34,6 +34,30 @@ Thank you very much.
 I discovered that the more I try to do this project, The more I learn new things. That's because many people compete. And everyone is helping others as well, it's a great community, their work has really inspired me and I believe that practicing through this project will help me become a better Data Analyst.
 
 
+- **#MY TABLEAU PUBLIC METRICS**
+
+เมื่อเราผลแพร่ผลงานใดๆออกไป เราก็จะอยากรู้เหมือนกันว่าผลตอบรับจะเป็นอย่างไรบ้าง? 
+และนี่คือผลสรุปของ Tableau Public Project ของผมครับ
+
+<iframe seamless frameborder="0" src="
+https://public.tableau.com/views/MYTABLEAUPUBLICMETRICS/TableauPublicAPI?:language=en-US&:display_count=n&:origin=viz_share_link" width = '100%' height = '800' scrolling='yes' ></iframe>
+
+Inspiration: [datavis.blog](https://datavis.blog/2019/05/13/tableau-public-api/)
+
+Data Source: [My Tableau Public Profile](https://public.tableau.com/profile/smith2019#!/)
+
+Credit: [Marc Reid](https://datavis.blog/about/)
+
+All the credit to Marc Reid(https://datavis.blog/about/), build from his template but I want my data to refresh but his template build on local json file. 
+so I have to build everything from scratch, chart by chart. 
+Start From import JSON to googlesheet by Apps Script first 
+and then inspect template workbook 
+and then try to replicate and so on til it done. 
+It's end up like his design but not fully functional as his but i'm happy with it now. 🤘
+This project make me learn new thing and fun. 
+Thank you Marc 😇
+
+
 - **#MakeoverMonday 2021 Week 15 - Fouls Called by NBA Referees**
 
 It is a reproduction from andy kriebel viz, to learn what he do and practicing in tableau.

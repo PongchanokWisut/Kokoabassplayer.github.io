@@ -40,7 +40,7 @@ I discovered that the more I try to do this project, The more I learn new things
 และนี่คือผลสรุปของ Tableau Public Project ของผมครับ
 
 <iframe seamless frameborder="0" src="
-https://public.tableau.com/views/MYTABLEAUPUBLICMETRICS/TableauPublicAPI?:language=en-US&:display_count=n&:origin=viz_share_link" width = '1200' height = '800' scrolling='yes' ></iframe>
+https://public.tableau.com/views/MYTABLEAUPUBLICMETRICS/TableauPublicAPI?:language=en-US&:display_count=n&:origin=viz_share_link" width = '1250' height = '850' scrolling='yes' ></iframe>
 
 Inspiration: [datavis.blog](https://datavis.blog/2019/05/13/tableau-public-api/)
 

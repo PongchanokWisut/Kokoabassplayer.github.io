@@ -39,7 +39,7 @@ I discovered that the more I try to do this project, The more I learn new things
 I build this to monitor for myself and family, hopefully it will help you too. Be safe.
 
 <iframe seamless frameborder="0" src="
-https://public.tableau.com/views/HOWISTHAILANDCOVID-19VACCINATEDCOVERAGE/HOWISTHAILANDCOVID-19VACCINATEDCOVERAGE?:language=en-US&:display_count=n&:origin=viz_share_link" width = '100%' height = '800' scrolling='yes' ></iframe>
+https://public.tableau.com/views/HOWISTHAILANDCOVID-19VACCINATEDCOVERAGE/HOWISTHAILANDCOVID-19VACCINATEDCOVERAGE?:language=en-US&:display_count=n&:origin=viz_share_link" width = '1000' height = '950' scrolling='yes' ></iframe>
 
 Inspiration: [facebook post from LAO](https://www.facebook.com/CIEH.MoH.Lao/photos/a.1594657613892260/4328057370552257/?type=3)
 

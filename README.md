@@ -34,7 +34,21 @@ Thank you very much.
 I discovered that the more I try to do this project, The more I learn new things. That's because many people compete. And everyone is helping others as well, it's a great community, their work has really inspired me and I believe that practicing through this project will help me become a better Data Analyst.
 
 
-- **#MY TABLEAU PUBLIC METRICS**
+- **HOW IS THAILAND COVID-19 VACCINATED COVERAGE?**
+
+I build this to monitor for myself and family, hopefully it will help you too. Be safe.
+
+<iframe seamless frameborder="0" src="
+https://public.tableau.com/views/HOWISTHAILANDCOVID-19VACCINATEDCOVERAGE/HOWISTHAILANDCOVID-19VACCINATEDCOVERAGE?:language=en-US&:display_count=n&:origin=viz_share_link" width = '100%' height = '800' scrolling='yes' ></iframe>
+
+Inspiration: [facebook post from LAO](https://www.facebook.com/CIEH.MoH.Lao/photos/a.1594657613892260/4328057370552257/?type=3)
+
+Data Source: [รายงานข้อมูล COVID-19 ในประเทศไทย](https://github.com/porames/the-researcher-covid-bot)
+
+Original Article: [Hope for humanity](https://www.who.int/thailand/news/feature-stories/detail/hope-for-humanity?fbclid=IwAR1I1itRSnYjzg5NMVlh6PqKofVxGEdsD2SXt7dyrH_e66at6LJQUVXjE6A)
+
+
+- **MY TABLEAU PUBLIC METRICS**
 
 เมื่อเราผลแพร่ผลงานใดๆออกไป เราก็จะอยากรู้เหมือนกันว่าผลตอบรับจะเป็นอย่างไรบ้าง? 
 และนี่คือผลสรุปของ Tableau Public Project ของผมครับ

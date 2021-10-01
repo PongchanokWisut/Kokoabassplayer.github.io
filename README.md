@@ -33,10 +33,11 @@ Thank you very much.
 
 - **SITUATION OF DEATHS FROM COVID-19 IN THAILAND**
 
-I volunteered for the Department of Disease Control. Because I want to help medical personnel to work more comfortably. And hopes that it will help Thai people have access to information quickly, timely, and be better prepared to deal with the disease. *I only contributed 1 dashboard tab "สถานการณ์ผู้เสียชีวิตจากเชื้อ COVID-19 ในประเทศไทย"
+I volunteered for the Department of Disease Control. Because I want to help medical personnel to work more comfortably. And hopes that it will help Thai people have access to information quickly, timely, and be better prepared to deal with the disease. 
+*I only contributed 1 dashboard tab "สถานการณ์ผู้เสียชีวิตจากเชื้อ COVID-19 ในประเทศไทย"
 
 <iframe seamless frameborder="0" src="
-https://ddc.moph.go.th/covid19-dashboard/?dashboard=death-statistics" width = '1200' height = '1600' scrolling='yes' ></iframe>
+https://ddc.moph.go.th/covid19-dashboard/?dashboard=death-statistics" width = '1220' height = '1610' scrolling='yes' ></iframe>
 
 Inspiration: Anxiety from seeing the dead increase
 

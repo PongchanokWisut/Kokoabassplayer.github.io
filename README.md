@@ -29,9 +29,10 @@ Thank you very much.
 
 
 
-### #MakeoverMonday Project
+### REAL LIFE PROJECT
 
-I discovered that the more I try to do this project, The more I learn new things. That's because many people compete. And everyone is helping others as well, it's a great community, their work has really inspired me and I believe that practicing through this project will help me become a better Data Analyst.
+I do these projects to solve problems in my life or to find answers, and sometimes I share them with my fellow humans. And hope it will be useful to others. And of course, it's also a fun practice and application.
+
 
 
 - **HOW IS THAILAND COVID-19 VACCINATED COVERAGE?**
@@ -48,10 +49,11 @@ Data Source: [รายงานข้อมูล COVID-19 ในประเ�
 Original Article: [Hope for humanity](https://www.who.int/thailand/news/feature-stories/detail/hope-for-humanity?fbclid=IwAR1I1itRSnYjzg5NMVlh6PqKofVxGEdsD2SXt7dyrH_e66at6LJQUVXjE6A)
 
 
+
 - **MY TABLEAU PUBLIC METRICS**
 
-เมื่อเราผลแพร่ผลงานใดๆออกไป เราก็จะอยากรู้เหมือนกันว่าผลตอบรับจะเป็นอย่างไรบ้าง? 
-และนี่คือผลสรุปของ Tableau Public Project ของผมครับ
+When I publish my work I would also like to know how the response will be?
+And this is the summary of my Tableau Public Project.
 
 <iframe seamless frameborder="0" src="
 https://public.tableau.com/views/MYTABLEAUPUBLICMETRICS/TableauPublicAPI?:language=en-US&:display_count=n&:origin=viz_share_link" width = '1250' height = '850' scrolling='yes' ></iframe>
@@ -71,35 +73,6 @@ It's end up like his design but not fully functional as his but i'm happy with i
 This project make me learn new thing and fun. 
 Thank you Marc 😇
 
-
-- **#MakeoverMonday 2021 Week 15 - Fouls Called by NBA Referees**
-
-It is a reproduction from andy kriebel viz, to learn what he do and practicing in tableau.
-feedback is welcome
-
-<iframe seamless frameborder="0" src="
-https://public.tableau.com/views/2021W15FoulsCalledByNBAReferees_16183828654490/MM2021W15?:language=en&:display_count=y&publish=yes&:origin=viz_share_link" width = '100%' height = '800' scrolling='yes' ></iframe>
-
-Original Visualization: [Twitter](https://twitter.com/owenlhjphillips/status/1336681714366689280)
-
-Data Source: [The Unofficial NBA Ref Ball Database](https://llewellynjean.shinyapps.io/NBARefDatabase/)
-
-Credit: [@owenphillips](https://twitter.com/owenlhjphillips)
-
-
-- **2021/W13: UK Exports to EU have plunged since Brexit**
-
-UK Exports to EU plunge by 40% in first month since Brexit
-
-The imposition of a new Covid lockdown resulted in the biggest monthly decline in British trade for more than 20 years.
-Experts said the scale of the decline in January trade was unlikely to be permanent because there was evidence companies stockpiled goods before the Brexit deadline, meaning they would not need to send as many shipments as usual in January.
-
-<iframe seamless frameborder="0" src="
-https://public.tableau.com/views/2021_W13_UK_Exports_to_EU_have_plunged_since_Brexit/ExportstoEUplungeby40infirstmonthsinceBrexit?:language=en&:display_count=y&:origin=viz_share_link" width = '100%' height = '800' scrolling='yes' ></iframe>
-
-SOURCE ARTICLE: [The Guardian](https://www.theguardian.com/business/2021/mar/12/exports-to-eu-plunge-in-first-month-since-brexit-uk-economy)
-
-DATA SOURCE: [ONS - UK trade goods and services publication table 14 (expressed as £ million)](https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/datasets/uktradegoodsandservicespublicationtables)
 
 
 - **Family Reserve Fund & Financial Health**
@@ -124,15 +97,55 @@ Inspiration: [Money Class](https://www.facebook.com/moneyclass.co)
 Data source: *Not available*
 
 
+
 - **ค่าจ้างขั้นต่ำต่อวง ของ วงดนตรี Full Band ในประเทศไทย ราคาเท่าไหร่?**
 
-เมื่อวานนี้ เพื่อนนักดนตรีของผมคนนึง เค้าโดนผู้ว่าจ้างโกงค่าจ้าง ผมเลยเกิดแรงบันดาลใจในการวิเคราะห์ราคาค่าจ้างวงดนตรี เพื่อเป็นวิทยาทานต่อเพื่อนๆในวงการ เป็นผลงานชิ้นนี้
+Yesterday, one of my musician friends He was scammed by the employer So I was inspired to analyze the band's wages. To be educators to friends in the industry and employer
+therefore came out as this piece
 
 <iframe seamless frameborder="0" src="
 https://public.tableau.com/views/FullBand_/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '600' scrolling='yes' ></iframe>
 
 Source Article: [Post ต้นทาง](https://www.facebook.com/copy66/posts/4186692118061861)
 Data source: [LENSOD](https://www.lensod.com/)
+
+
+
+### #MakeoverMonday Project
+
+I discovered that the more I try to do this project, The more I learn new things. That's because many people compete. And everyone is helping others as well, it's a great community, their work has really inspired me and I believe that practicing through this project will help me become a better Data Analyst.
+
+
+
+- **#MakeoverMonday 2021 Week 15 - Fouls Called by NBA Referees**
+
+It is a reproduction from andy kriebel viz, to learn what he do and practicing in tableau.
+feedback is welcome
+
+<iframe seamless frameborder="0" src="
+https://public.tableau.com/views/2021W15FoulsCalledByNBAReferees_16183828654490/MM2021W15?:language=en&:display_count=y&publish=yes&:origin=viz_share_link" width = '100%' height = '800' scrolling='yes' ></iframe>
+
+Original Visualization: [Twitter](https://twitter.com/owenlhjphillips/status/1336681714366689280)
+
+Data Source: [The Unofficial NBA Ref Ball Database](https://llewellynjean.shinyapps.io/NBARefDatabase/)
+
+Credit: [@owenphillips](https://twitter.com/owenlhjphillips)
+
+
+
+- **2021/W13: UK Exports to EU have plunged since Brexit**
+
+UK Exports to EU plunge by 40% in first month since Brexit
+
+The imposition of a new Covid lockdown resulted in the biggest monthly decline in British trade for more than 20 years.
+Experts said the scale of the decline in January trade was unlikely to be permanent because there was evidence companies stockpiled goods before the Brexit deadline, meaning they would not need to send as many shipments as usual in January.
+
+<iframe seamless frameborder="0" src="
+https://public.tableau.com/views/2021_W13_UK_Exports_to_EU_have_plunged_since_Brexit/ExportstoEUplungeby40infirstmonthsinceBrexit?:language=en&:display_count=y&:origin=viz_share_link" width = '100%' height = '800' scrolling='yes' ></iframe>
+
+SOURCE ARTICLE: [The Guardian](https://www.theguardian.com/business/2021/mar/12/exports-to-eu-plunge-in-first-month-since-brexit-uk-economy)
+
+DATA SOURCE: [ONS - UK trade goods and services publication table 14 (expressed as £ million)](https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/datasets/uktradegoodsandservicespublicationtables)
 
 
 
@@ -167,6 +180,20 @@ Source Article: [Breakfast Cereals: Healthy or Unhealthy?](https://www.healthlin
 Data source: [Kaggle](https://www.kaggle.com/crawford/80-cereals?select=cereal.csv)
 
 
+- **Scotland - The state of the Digital Nation**
+
+I start at 2020 week 33, And this is my first #MakeoverMonday project. **71% tech company in scotland based in Midlothian, Glasgow, Aberdeenshire**. 
+
+<iframe seamless frameborder="0" src="
+https://public.tableau.com/views/MAKEOVERMONDAY2020-W33-Scotland-ThestateoftheDigitalNation/Scotland?:language=en&:display_count=yes&:showVizHome=no" width = '100%' height = '600' scrolling='yes' ></iframe>
+
+Data source : [Company Connecting](https://companyconnecting.com/news/stats-graphs-and-interesting-facts)
+
+
+
+### Dashboard
+
+
 
 - **Top Thailand Professor**
 
@@ -183,19 +210,6 @@ CSV : [Github](https://github.com/cstorm125/octopus/raw/master/data/octopus20200
 Thank for [Mr.Charin Polpanumas](https://github.com/cstorm125) and [Hope Data Annotations](https://www.facebook.com/hopedataannotations/) for providing raw data.
 
 
-
-- **Scotland - The state of the Digital Nation**
-
-I start at 2020 week 33, And this is my first #MakeoverMonday project. **71% tech company in scotland based in Midlothian, Glasgow, Aberdeenshire**. 
-
-<iframe seamless frameborder="0" src="
-https://public.tableau.com/views/MAKEOVERMONDAY2020-W33-Scotland-ThestateoftheDigitalNation/Scotland?:language=en&:display_count=yes&:showVizHome=no" width = '100%' height = '600' scrolling='yes' ></iframe>
-
-Data source : [Company Connecting](https://companyconnecting.com/news/stats-graphs-and-interesting-facts)
-
-
-
-### Dashboard
  
 - **SEAN B Incident**
 
@@ -227,8 +241,6 @@ Data source : *Not available*
 
 
 
-### Data Visualization
-
 - **COVID-19 Rank Racing**
 
 to learning animation in data visualiazation. what i found is animation add dimention to analysis and it tell a story more clearly, it's make a good sense of what is going on by time. *Unfortunately tableau public server is not good at animation, to see Full potencial of animation please download workbook (Rigth-down corner button)*
@@ -248,7 +260,7 @@ Data source : [Our World in Data COVID-19 dataset](https://github.com/owid/covid
 
 ## Python 
 
-[DataCamp](https://www.datacamp.com/?utm_source=adwords_ppc&utm_campaignid=1242944157&utm_adgroupid=58673827368&utm_device=c&utm_keyword=datacamp&utm_matchtype=e&utm_network=g&utm_adpostion=&utm_creative=340731356767&utm_targetid=kwd-297372810188&utm_loc_interest_ms=&utm_loc_physical_ms=1012728&gclid=EAIaIQobChMI2dbpkqCN6wIVFR4rCh2mQgi4EAAYASAAEgIC3PD_BwE) is a learning platform where I learned about data science.
+[DataCamp](https://datacamp.pxf.io/c/2906898/1112311/13294) is a learning platform where I learned about data science.
 I am constantly learning python, SQL and I mean that by the end of 2020 I have to be able to implement machine learning.
 here is [my DataCamp profile](https://www.datacamp.com/profile/kokoabassplayer)
 

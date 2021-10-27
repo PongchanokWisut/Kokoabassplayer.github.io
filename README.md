@@ -46,7 +46,20 @@ Data Source: [SAT-MOPH & TABLEAU THAILAND](https://covid19.ddc.moph.go.th/) (The
 ## Real life project
 I do these projects to solve problems in my life or to find answers, and sometimes I share them with my fellow humans. And hope it will be useful to others. And of course, it's also a fun practice and application.
 
+-----
 
+- **It's a must have item!!! but the budget is limited So we have to arrange the purchase order a bit.**
+
+To help make spending decisions easier. So this project happened very quickly. so that in the future it may be necessary
+
+<iframe seamless frameborder="0" src="
+https://public.tableau.com/app/profile/smith2019/viz/OpalHouse/OpalHouse?publish=yes" width = '1300' height = '792' scrolling='yes' ></iframe>
+
+Inspiration: [Decision Book : Fifty models for strategic thinking](https://thailand.kinokuniya.com/bw/9781781259542) and all the emotions when wanting
+
+Data Source: [Mockup Data](https://docs.google.com/spreadsheets/d/1_z03TFB8eKnuq3ga1vaLYvAn_EE2tVMksekckJYnFig/edit?usp=sharing)
+
+-----
 
 - **HOW IS THAILAND COVID-19 VACCINATED COVERAGE?**
 

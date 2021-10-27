@@ -53,7 +53,7 @@ I do these projects to solve problems in my life or to find answers, and sometim
 To help make spending decisions easier. So this project happened very quickly. so that in the future it may be necessary
 
 <iframe seamless frameborder="0" src="
-https://public.tableau.com/app/profile/smith2019/viz/OpalHouse/OpalHouse?publish=yes" width = '1300' height = '792' scrolling='yes' ></iframe>
+https://public.tableau.com/views/OpalHouse/OpalHouse?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link" width = '1300' height = '792' scrolling='yes' ></iframe>
 
 Inspiration: [Decision Book : Fifty models for strategic thinking](https://thailand.kinokuniya.com/bw/9781781259542) and all the emotions when wanting
 

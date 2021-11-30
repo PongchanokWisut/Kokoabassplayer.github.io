@@ -1,0 +1,24 @@
+Tableau Accelerators
+ช่วยลดเวลาพัฒนาได้อย่างมาก(ถ้า data source ตรงกัน)
+เลือก และโหลดมาต่อใช้งานได้เลย
+
+แต่มีเงื่อนไขว่า
+- ถ้า data source ใน workbook เป็นแบบไหนก็ต้องใช้แบบนั้น
+เช่น ในเล่ม ต่อ saleforce ไว้ ก็จะไปต่อกับ saleforce ได้เท่านั้น
+- ถ้า data source เป็น hyper หรือ flat file
+ต้อง prep ให้ตรงกับ template ก็จะใช้งานได้
+
+https://exchange.tableau.com/accelerators?version=2021.2
+
+ภาคต่อของ https://linpack-for-tableau.com/table.../shipment-dashboard/
+และที่สำคัญคือ ฟรี ครับ
+
+-----------------------------------------------------------------
+
+VISIT THIS WEB TO SEE HOW TO USE THIS TEMPLATE
+
+SAMPLE ON TABLEAU PUBLIC(CAN'T DOWNLOAD): https://public.tableau.com/app/profile/lintao/viz/ShipmentDashboard_3/Cockpit-Shipment
+
+WHERE TO DOWNLOAD WORKBOOK: https://exchange.tableau.com/products/578?version=2021.2
+
+SAMPLE OF HOW TO MAP FIELD(SKIP TO 3RD STEP): https://linpack-for-tableau.com/tableau-dashboard/shipment-dashboard/

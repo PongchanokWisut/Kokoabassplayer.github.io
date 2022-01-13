@@ -51,6 +51,20 @@ I do these projects to solve problems in my life or to find answers, and sometim
 
 -----
 
+- **ราคาหมู vs. ค่าแรงขั้นต่ำ**
+
+ขณะนี้ประเทศไทย เกิดปัญหาโรคระบาดในหมู จึงทำให้มีราคาแพงจาก supply ที่ลดลงเป็นอย่างมาก เราสามารถเห็นได้อย่างชัดเจนว่า "ราคาหมู" สวนทางกับ "ค่าแรงขั้นต่ำ" อย่างสิ้นเชิง
+#ราคาหมู #ค่าแรงขั้นต่ำ #tableau #datavisualization
+
+<iframe seamless frameborder="0" src="
+https://public.tableau.com/views/vs__16420933712180/Barandslope?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link" width = '100%' height = '800' scrolling='yes' ></iframe>
+
+Inspiration: [facebook post from Tautology Thailand](https://www.facebook.com/tautologyai/posts/4512997235488809?comment_id=4519610698160796&reply_comment_id=4519680094820523&notif_id=1642077376239643&notif_t=comment_mention&ref=notif)
+
+Data Source: [Pork Price.csv](https://github.com/TAUTOLOGY-EDUCATION/CONTENT/blob/main/Pork%20Price.csv)
+
+-----
+
 - **It's a must have item!!! but the budget is limited So we have to arrange the purchase order a bit.**
 
 To help make spending decisions easier. So this project happened very quickly. so that in the future it may be necessary

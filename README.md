@@ -61,7 +61,7 @@ https://public.tableau.com/views/vs__16420933712180/Barandslope?:language=en-US&
 
 Inspiration: [facebook post from Tautology Thailand](https://www.facebook.com/tautologyai/posts/4512997235488809?comment_id=4519610698160796&reply_comment_id=4519680094820523&notif_id=1642077376239643&notif_t=comment_mention&ref=notif)
 
-Data Source: [Pork Price.csv](https://github.com/TAUTOLOGY-EDUCATION/CONTENT/blob/main/Pork%20Price.csv)
+Data Source: [TAUTOLOGY-EDUCATION](https://github.com/TAUTOLOGY-EDUCATION/CONTENT/blob/main/Pork%20Price.csv)
 
 -----
 

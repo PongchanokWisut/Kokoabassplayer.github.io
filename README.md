@@ -51,6 +51,20 @@ I do these projects to solve problems in my life or to find answers, and sometim
 
 -----
 
+- **เงินเดือน 15,000 พอใช้ไหมในประเทศไทย?**
+
+#ค่าแรงขั้นต่ำ #tableau #datavisualization
+
+<iframe seamless frameborder="0" src="
+https://public.tableau.com/views/15000_16429300885140/15000?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link" width = '100%' height = '800' scrolling='yes' ></iframe>
+
+Inspiration: [facebook post from Ch7HD News](https://www.facebook.com/Ch7HDNews/photos/a.407345295971939/5465526273487124/)
+
+Data Source: [National Statistical Office of Thailand](https://gdcatalog.go.th/no/dataset/gdpublish-ns_08_20242/resource/23b8c71f-5bed-409f-91b5-c13a3172aeec)
+
+-----
+
+
 - **ราคาหมู vs. ค่าแรงขั้นต่ำ**
 
 ขณะนี้ประเทศไทย เกิดปัญหาโรคระบาดในหมู จึงทำให้มีราคาแพงจาก supply ที่ลดลงเป็นอย่างมาก เราสามารถเห็นได้อย่างชัดเจนว่า "ราคาหมู" สวนทางกับ "ค่าแรงขั้นต่ำ" อย่างสิ้นเชิง

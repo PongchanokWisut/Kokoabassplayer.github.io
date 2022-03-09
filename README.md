@@ -247,11 +247,23 @@ https://public.tableau.com/views/MAKEOVERMONDAY2020-W33-Scotland-ThestateoftheDi
 
 Data source : [Company Connecting](https://companyconnecting.com/news/stats-graphs-and-interesting-facts)
 
+-----
+
+## How to
+
+- **How to create ALERT label**
+
+To help friends in [Tableau User Group Thailand](https://www.facebook.com/groups/TableauUserGroupThailand/) create alerts based on their criteria. [in this post](https://www.facebook.com/groups/TableauUserGroupThailand/permalink/4904282432995648/)
+
+<iframe seamless frameborder="0" src="
+https://public.tableau.com/views/HowtocreateALERTlabel/HowtocreateALERTlabel?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link" width = '100%' height = '950' scrolling='yes' ></iframe>
+
+Data source : [Sample Data](https://github.com/Kokoabassplayer/Kokoabassplayer.github.io/blob/master/Taleau%20Tips/How%20to%20create%20ALERT%20LABEL/test%20status%20alert.xlsx)
+
+-----
 
 
 ## Others Dashboard
-
-
 
 - **Top Thailand Professor**
 

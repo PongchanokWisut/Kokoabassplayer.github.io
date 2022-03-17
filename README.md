@@ -268,7 +268,8 @@ To help friends in [Tableau User Group Thailand](https://www.facebook.com/groups
 <iframe seamless frameborder="0" src="
 https://public.tableau.com/views/Howtoplaceeventontheline/HowtoplaceEVENTontheLINE?:language=en-US&:display_count=n&:origin=viz_share_link" width = '100%' height = '850' scrolling='yes' ></iframe>
 
-Data source : [Sample Data](https://github.com/Kokoabassplayer/Kokoabassplayer.github.io/blob/master/Taleau%20Tips/How%20to%20create%20ALERT%20LABEL/test%20status%20alert.xlsx)
+Data source : Excel file in tableau workbook
+
 Inspiration : [this post](https://www.facebook.com/groups/TableauUserGroupThailand/permalink/4922355641188327/)
 
 

@@ -35,13 +35,19 @@ Thank you very much.
 
 - **Featured on the [tableau official website](https://tabsoft.co/3xbVtBM) ,[LinkedIn](https://www.linkedin.com/posts/tableau-software_thaitableauusergroupvizmp4-activity-6917289878686773248-JgHU/?utm_source=linkedin_share&utm_medium=member_desktop_web) and [twitter](https://twitter.com/tableau/status/1511524361072689160)**
 
-I am proud to have contributed in this project. I still have to practice a lot.
-Thank you for this opportunity.
+I am proud to have contributed in this project. I still have to practice a lot. Thank you for this opportunity.
 
-ผมภูมิใจที่ได้มีส่วนร่วมในโครงการนี้ ผมยังต้องฝึกฝนอีกมาก 
-ขอขอบคุณสำหรับโอกาสนี้ด้วยครับ
+ผมภูมิใจที่ได้มีส่วนร่วมในโครงการนี้ ผมยังต้องฝึกฝนอีกมาก ขอขอบคุณสำหรับโอกาสนี้ด้วยครับ
 
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/61007612/162015565-58087568-61fa-4efc-be05-4f2d5f6e2ff4.gif)
+
+Special Thanks: 
+- [Arpaporn (YEE) W. / Suporntip](https://www.linkedin.com/in/arpaporn-yee-w-suporntip-a7155b75/)
+- [Vorapol Santhadkolkarn](https://www.linkedin.com/in/vorapol/)
+- [Siroros Roongdonsai](https://www.linkedin.com/in/siroros-roongdonsai/)
+- [Methee Srisupundit](https://www.linkedin.com/in/methee-srisupundit-2004516a/)
+- [Nontawit Cheewaruangroj](https://www.linkedin.com/in/nontawit-cheewaruangroj/)
+- [Thitirat Pipatkulsawat](https://www.linkedin.com/in/thitiratpipatkulsawat/)
 
 
 -----

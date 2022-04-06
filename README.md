@@ -41,8 +41,6 @@ Thank you for this opportunity.
 ผมภูมิใจที่ได้มีส่วนร่วมในโครงการนี้ ผมยังต้องฝึกฝนอีกมาก 
 ขอขอบคุณสำหรับโอกาสนี้ด้วยครับ
 
-![Featured Photo](https://scontent.fbkk2-8.fna.fbcdn.net/v/t39.30808-6/278018133_10158919264314958_138464040272433339_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeH31Ms051S03RfNcDBVBD3SQYTTDvLwh2JBhNMO8vCHYgWM58oUQYnpQyDqPCmkcZY&_nc_ohc=PEwPoOuRg1kAX-VrFwu&_nc_ht=scontent.fbkk2-8.fna&oh=00_AT-gyImYHNtMoM2q1iyYzGzldl74uwzOIRE3UbNx0ztSnw&oe=62539CA3)
-
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/61007612/162015565-58087568-61fa-4efc-be05-4f2d5f6e2ff4.gif)
 
 

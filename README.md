@@ -41,6 +41,8 @@ Thank you for this opportunity.
 ผมภูมิใจที่ได้มีส่วนร่วมในโครงการนี้ ผมยังต้องฝึกฝนอีกมาก
 ขอขอบคุณสำหรับโอกาสนี้ด้วยครับ
 
+To better understand the impact of COVID-19 across their country, Bangkok Tableau User Group leaders volunteered their data skills to help the Government of Thailand visualize data. Read more about their impactful story on the blog: [https://tabsoft.co/3xbVtBM](https://tabsoft.co/3xbVtBM)
+
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/61007612/162015565-58087568-61fa-4efc-be05-4f2d5f6e2ff4.gif)
 
 Special Thanks: 
@@ -50,6 +52,9 @@ Special Thanks:
 - [Methee Srisupundit](https://www.linkedin.com/in/methee-srisupundit-2004516a/)
 - [Nontawit Cheewaruangroj](https://www.linkedin.com/in/nontawit-cheewaruangroj/)
 - [Thitirat Pipatkulsawat](https://www.linkedin.com/in/thitiratpipatkulsawat/)
+
+
+To better understand the impact of COVID-19 across their country, Bangkok Tableau User Group leaders volunteered their data skills to help the Government of Thailand visualize data. Read more about their impactful story on the blog
 
 
 -----

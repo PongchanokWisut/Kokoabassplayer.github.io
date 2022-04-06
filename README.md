@@ -27,7 +27,29 @@ Thank you very much.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GDwJyD2CNwA?start=1860" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
 -----
+
+
+## Featured
+
+- **Featured on the [tableau official website](https://tabsoft.co/3xbVtBM) ,[LinkedIn](https://www.linkedin.com/posts/tableau-software_thaitableauusergroupvizmp4-activity-6917289878686773248-JgHU/?utm_source=linkedin_share&utm_medium=member_desktop_web) and [twitter](https://twitter.com/tableau/status/1511524361072689160)**
+
+I am proud to have contributed in this project. I still have to practice a lot.
+
+Thank you for this opportunity.
+
+ผมภูมิใจที่ได้มีส่วนร่วมในโครงการนี้ ผมยังต้องฝึกฝนอีกมาก 
+
+ขอขอบคุณสำหรับโอกาสนี้ด้วยครับ
+
+#tableau
+
+![Featured Photo](https://scontent.fbkk2-8.fna.fbcdn.net/v/t39.30808-6/278018133_10158919264314958_138464040272433339_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeH31Ms051S03RfNcDBVBD3SQYTTDvLwh2JBhNMO8vCHYgWM58oUQYnpQyDqPCmkcZY&_nc_ohc=PEwPoOuRg1kAX-VrFwu&_nc_ht=scontent.fbkk2-8.fna&oh=00_AT-gyImYHNtMoM2q1iyYzGzldl74uwzOIRE3UbNx0ztSnw&oe=62539CA3)
+
+
+-----
+
 
 ## Volunteer
 
@@ -44,7 +66,9 @@ Inspiration: Anxiety from seeing the dead increase
 
 Data Source: [SAT-MOPH & TABLEAU THAILAND](https://covid19.ddc.moph.go.th/) (The raw data used to create this dashboard is not authorized to be disclosed.)
 
+
 -----
+
 
 ## Real life project
 I do these projects to solve problems in my life or to find answers, and sometimes I share them with my fellow humans. And hope it will be useful to others. And of course, it's also a fun practice and application.

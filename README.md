@@ -4,14 +4,15 @@ My name is Pongchanok Wisuttipongsanon, I am a sofware tester and data science l
 
 -----
 
-## Real life project
-I do these projects to solve problems in my life or to find answers, and sometimes I share them with my fellow humans. And hope it will be useful to others. And of course, it's also a fun practice and application.
+## Projects
+After completed Google Analytics Professional Certiofication fron coursera, I decided to take course on several other dara leaning platforms including Udemy  and datatcamp below are my projects from coures.
 
 -----
 
 
 <iframe seamless frameborder="0" src=https://public.tableau.com/shared/G7ZQZMF4G?:display_count=n&:origin=viz_share_link" width = '100%' height = '800' scrolling='yes' ></iframe>
-Inspiration: change.org
 
-Data Source: Google Sheets
-
+Data Source:
+                                                                                                                         
+-----
+                                                                                                                      

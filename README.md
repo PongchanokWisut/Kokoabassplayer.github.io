@@ -10,7 +10,7 @@ I do these projects to solve problems in my life or to find answers, and sometim
 -----
 
 
-<iframe seamless frameborder="0" src=["https://public.tableau.com/views/Howtoconvertthainumberstoarabicnumbers/howtoconvertthainumbertoarabicnumber?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link](https://public.tableau.com/shared/G7ZQZMF4G?:display_count=n&:origin=viz_share_link)" width = '100%' height = '800' scrolling='yes' ></iframe>
+<iframe seamless frameborder="0" src=https://public.tableau.com/shared/G7ZQZMF4G?:display_count=n&:origin=viz_share_link" width = '100%' height = '800' scrolling='yes' ></iframe>
 Inspiration: change.org
 
 Data Source: Google Sheets

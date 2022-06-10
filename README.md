@@ -5,14 +5,14 @@ My name is Pongchanok Wisuttipongsanon, I am a sofware tester and data science l
 -----
 
 ## Projects
-After completed Google Analytics Professional Certiofication fron coursera, I decided to take course on several other dara leaning platforms including Udemy  and datatcamp below are my projects from coures.
+After completed Google Analytics Professional Certification fron coursera, I decided to take course on several other data learning platforms including Udemy and datatcamp. Below are my projects from coures.
 
 -----
 
 
 <iframe seamless frameborder="0" src=https://public.tableau.com/shared/G7ZQZMF4G?:display_count=n&:origin=viz_share_link" width = '100%' height = '800' scrolling='yes' ></iframe>
 
-Data Source:
+Data Source: [employees_mod_database](https://www.dropbox.com/s/3czfpe0njsq868q/employees_mod.sql?dl=0)
                                                                                                                          
 -----
                                                                                                                       

@@ -45,23 +45,31 @@ FROM
     t_employees ee ON dm.emp_no = ee.emp_no
 ORDER BY dm.emp_no, calendar_year;
 
+-- Compare the average salary of female versus male employees in the entire company until year 2002, and add a filter allowing you to see that per each department.
+-- Title : Average Salary of Female VS Male Employees
+
+
 
 -- Find the average salary of the male and female employees in each department
 -- Title : Average Salary of Male and Female Employees 
 
-SELECT
-	d.dept_name,
-	e.gender,
-  	Round(AVG(s.salary),2) as salary
-FROM t_employees e
-JOIN t_salaries s
-	ON e.emp_no = s.emp_no
-JOIN t_dept_emp de
-	ON s.emp_no = de.emp_no
-JOIN t_departments d
-	ON de.dept_no = d.dept_no
-GROUP BY  d.dept_no,e.gender
-ORDER By d.dept_no;
+SELECT 
+    e.gender,
+    d.dept_name,
+    ROUND(AVG(s.salary), 2) AS salary,
+    YEAR(s.from_date) AS calendar_year
+FROM
+    t_salaries s
+        JOIN
+    t_employees e ON s.emp_no = e.emp_no
+        JOIN
+    t_dept_emp de ON de.emp_no = e.emp_no
+        JOIN
+    t_departments d ON d.dept_no = de.dept_no
+GROUP BY d.dept_no , e.gender , calendar_year
+HAVING calendar_year <= 2002
+ORDER BY d.dept_no;
+
     
    
     

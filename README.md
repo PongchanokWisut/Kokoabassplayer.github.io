@@ -15,7 +15,7 @@ Average Salary of Male vs Female Managers and Employees Dashboard
 
 This case study focuses on defining number of employees, number of managers, average salary of employees and managers from different departments within the company. Visualization has been carried out in Tableau.
 
-<iframe seamless frameborder="0" src=https://public.tableau.com/shared/G7ZQZMF4G?:display_count=n&:origin=viz_share_link" width = '100%' height = '800' scrolling='yes' ></iframe>
+<iframe seamless frameborder="0" src="https://public.tableau.com/shared/G7ZQZMF4G?:display_count=n&:origin=viz_share_link" width = '100%' height = '800' scrolling='yes' ></iframe>
                                                                                                                          
                                                                                                                          
                                                                                                                          
@@ -31,7 +31,7 @@ SQL Script :
 
 This case study explores the number of death, infected populations, and vaccinations in several countries across the world. Visualization has been carried out in Tableau.
 
-<iframe seamless frameborder="0" src=https://public.tableau.com/views/2020-2021Covid-19Dashboard/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link" width = '100%' height = '800' scrolling='yes' ></iframe>
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/2020-2021Covid-19Dashboard/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link" width = '100%' height = '800' scrolling='yes' ></iframe>
 
 
 

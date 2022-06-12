@@ -22,6 +22,7 @@ This case study focuses on defining number of employees, number of managers, ave
 Inspiration : [Combining SQL and Tableau Project](https://www.udemy.com/course/sql-mysql-for-data-analytics-and-business-intelligence/)                                                                                                                         
                                                                                                                          
 Data Source: [employees_mod_database](https://www.dropbox.com/s/3czfpe0njsq868q/employees_mod.sql?dl=0)
+SQL Script :
                                                                                                                          
 -----
 ## Does US really have world's highest Covid death toll?
@@ -38,4 +39,6 @@ Inspiration : Alex The Analyst' [Data Analyst Portfolio Project](https://www.you
 
 
 Data Source: [Coronavirus (COVID-19) Deaths](https://ourworldindata.org/covid-deaths)
+SQL Script :
+             
                                                                                                                       

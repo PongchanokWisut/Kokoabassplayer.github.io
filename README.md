@@ -8,7 +8,10 @@ My name is Pongchanok Wisuttipongsanon, I am a sofware tester and data science l
 After completed Google Analytics Professional Certification fron coursera, I decided to take course on several other data learning platforms including Udemy and datatcamp. Below are my projects from courses.
 
 -----
-## Part of SQL - MySQL for Data Analytics and Business Intelligence [(Udemy)](https://www.udemy.com/course/sql-mysql-for-data-analytics-and-business-intelligence/)
+## Do Men Really Earn More Than Women ? 
+Average Salary of Male vs Female Managers and Employees Dashboard
+
+(Part of SQL - MySQL for Data Analytics and Business Intelligence) [(Udemy)](https://www.udemy.com/course/sql-mysql-for-data-analytics-and-business-intelligence/)
 
 This case study focuses on defining number of employees, number of managers, average salary of employees and managers from different departments within the company. Visualization has been carried out in Tableau.
 
@@ -21,7 +24,9 @@ Inspiration : [Combining SQL and Tableau Project](https://www.udemy.com/course/s
 Data Source: [employees_mod_database](https://www.dropbox.com/s/3czfpe0njsq868q/employees_mod.sql?dl=0)
                                                                                                                          
 -----
-## Covid-19 Dashboard 
+## Does US really have world's highest Covid death toll?
+                                                                                                                         
+2020-2021 Covid-19 Deaths Dashboard 
 
 This case study explores the number of death, infected populations, and vaccinations in several countries across the world. Visualization has been carried out in Tableau.
 
